@@ -2063,6 +2063,31 @@ extracells:pattern.fluid:0, ME Fluid Pattern: Fluid Yellorium
 extracells:pattern.fluid:0, ME Fluid Pattern: Fluid Cyanite
 extracells:pattern.fluid:0, ME Fluid Pattern: fluid.fuelcolumn
 extracells:pattern.fluid:0, ME Fluid Pattern: Liquid Starlight
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Aluminium
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Astral Starmetal
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Carbon
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Copper
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Crystal
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Dark Iron
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Desh
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Draconium
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Gold
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Iridium
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Iron
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Lead
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Magnesium
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Mercury
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Meteoric Iron
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Mithril
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Nickel
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Osmium
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Palladium
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Platinum
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Silver
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Tin
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Tungsten
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Uranium
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Zinc
 extracells:terminal.fluid.wireless, item.extracells.terminal.fluid.wireless.name
 extracells:storage.component:0, 256k ME Storage Component
 extracells:storage.component:1, 1024k ME Storage Component
@@ -9049,6 +9074,16 @@ appliedenergistics2:facade:0, Cable Facade - Template (Decoration)
 appliedenergistics2:facade:0, Cable Facade - tile.decorated.paper.name
 appliedenergistics2:facade:0, Cable Facade - tile.decorated.leather.name
 appliedenergistics2:facade:0, Cable Facade - Laser (Decoration)
+appliedenergistics2:facade:0, Cable Facade - Block of Astral Starmetal
+appliedenergistics2:facade:0, Cable Facade - Block of Aquamarine
+appliedenergistics2:facade:0, Cable Facade - Block of Blue Diamond
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Charged Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Dimensional Shard
+appliedenergistics2:facade:0, Cable Facade - Block of Green Diamond
+appliedenergistics2:facade:0, Cable Facade - Block of Purple Diamond
+appliedenergistics2:facade:0, Cable Facade - Block of Red Diamond
+appliedenergistics2:facade:0, Cable Facade - Block of Yellow Diamond
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -13650,3 +13685,479 @@ openmodularturrets:rail_gun_turret, Rail Gun Turret
 openmodularturrets:lever_block, Basic Turret Base Crank
 rf-capability-adapter:aecapabilityadapter, ME Capability Adapter
 rf-capability-adapter:aecapabilityadapter_part, ME Capability Adapter
+jaopca:block_blockastralstarmetal, Block of %s
+jaopca:block_blockaquamarine, Block of %s
+jaopca:block_blockbluediamond, Block of %s
+jaopca:block_blockcertusquartz, Block of %s
+jaopca:block_blockchargedcertusquartz, Block of %s
+jaopca:block_blockdimensionalshard, Block of %s
+jaopca:block_blockgreendiamond, Block of %s
+jaopca:block_blockpurplediamond, Block of %s
+jaopca:block_blockreddiamond, Block of %s
+jaopca:block_blockyellowdiamond, Block of %s
+jaopca:item_dustcarbon, %s Dust
+jaopca:item_dustcrystal, %s Dust
+jaopca:item_dustdarkiron, %s Dust
+jaopca:item_dustdesh, %s Dust
+jaopca:item_dustmagnesium, %s Dust
+jaopca:item_dustmercury, %s Dust
+jaopca:item_dustmeteoriciron, %s Dust
+jaopca:item_dustpalladium, %s Dust
+jaopca:item_dusttungsten, %s Dust
+jaopca:item_dustzinc, %s Dust
+jaopca:item_dustamber, %s Dust
+jaopca:item_dustamethyst, %s Dust
+jaopca:item_dustaquamarine, %s Dust
+jaopca:item_dustbluediamond, %s Dust
+jaopca:item_dustbluegem, %s Dust
+jaopca:item_dustchargedcertusquartz, %s Dust
+jaopca:item_dustdimensionalshard, %s Dust
+jaopca:item_dustemerald, %s Dust
+jaopca:item_dustgreendiamond, %s Dust
+jaopca:item_dustmalachite, %s Dust
+jaopca:item_dustperidot, %s Dust
+jaopca:item_dustpurplediamond, %s Dust
+jaopca:item_dustreddiamond, %s Dust
+jaopca:item_dustredgem, %s Dust
+jaopca:item_dustruby, %s Dust
+jaopca:item_dustsapphire, %s Dust
+jaopca:item_dusttanzanite, %s Dust
+jaopca:item_dusttopaz, %s Dust
+jaopca:item_dustwhitegem, %s Dust
+jaopca:item_dustyellowdiamond, %s Dust
+jaopca:item_nuggetastralstarmetal, %s Nugget
+jaopca:item_nuggetcarbon, %s Nugget
+jaopca:item_nuggetcrystal, %s Nugget
+jaopca:item_nuggetdarkiron, %s Nugget
+jaopca:item_nuggetdesh, %s Nugget
+jaopca:item_nuggetmagnesium, %s Nugget
+jaopca:item_nuggetmercury, %s Nugget
+jaopca:item_nuggetmeteoriciron, %s Nugget
+jaopca:item_nuggetpalladium, %s Nugget
+jaopca:item_nuggettungsten, %s Nugget
+jaopca:item_nuggeturanium, %s Nugget
+jaopca:item_nuggetyellorium, %s Nugget
+jaopca:item_nuggetzinc, %s Nugget
+jaopca:item_nuggetamber, %s Nugget
+jaopca:item_nuggetamethyst, %s Nugget
+jaopca:item_nuggetaquamarine, %s Nugget
+jaopca:item_nuggetbluediamond, %s Nugget
+jaopca:item_nuggetbluegem, %s Nugget
+jaopca:item_nuggetcertusquartz, %s Nugget
+jaopca:item_nuggetchargedcertusquartz, %s Nugget
+jaopca:item_nuggetcoal, %s Nugget
+jaopca:item_nuggetdimensionalshard, %s Nugget
+jaopca:item_nuggetgreendiamond, %s Nugget
+jaopca:item_nuggetlapis, %s Nugget
+jaopca:item_nuggetmalachite, %s Nugget
+jaopca:item_nuggetperidot, %s Nugget
+jaopca:item_nuggetpurplediamond, %s Nugget
+jaopca:item_nuggetquartz, %s Nugget
+jaopca:item_nuggetreddiamond, %s Nugget
+jaopca:item_nuggetredgem, %s Nugget
+jaopca:item_nuggetruby, %s Nugget
+jaopca:item_nuggetsapphire, %s Nugget
+jaopca:item_nuggettanzanite, %s Nugget
+jaopca:item_nuggettopaz, %s Nugget
+jaopca:item_nuggetwhitegem, %s Nugget
+jaopca:item_nuggetyellowdiamond, %s Nugget
+jaopca:item_coinastralstarmetal, %s Coin
+jaopca:item_coincarbon, %s Coin
+jaopca:item_coincrystal, %s Coin
+jaopca:item_coindarkiron, %s Coin
+jaopca:item_coindesh, %s Coin
+jaopca:item_coindraconium, %s Coin
+jaopca:item_coinmagnesium, %s Coin
+jaopca:item_coinmercury, %s Coin
+jaopca:item_coinmeteoriciron, %s Coin
+jaopca:item_coinosmium, %s Coin
+jaopca:item_coinpalladium, %s Coin
+jaopca:item_cointungsten, %s Coin
+jaopca:item_coinuranium, %s Coin
+jaopca:item_coinyellorium, %s Coin
+jaopca:item_coinzinc, %s Coin
+jaopca:item_gearastralstarmetal, %s Gear
+jaopca:item_gearcarbon, %s Gear
+jaopca:item_gearcrystal, %s Gear
+jaopca:item_geardarkiron, %s Gear
+jaopca:item_geardesh, %s Gear
+jaopca:item_geardraconium, %s Gear
+jaopca:item_gearmagnesium, %s Gear
+jaopca:item_gearmercury, %s Gear
+jaopca:item_gearmeteoriciron, %s Gear
+jaopca:item_gearosmium, %s Gear
+jaopca:item_gearpalladium, %s Gear
+jaopca:item_geartungsten, %s Gear
+jaopca:item_gearuranium, %s Gear
+jaopca:item_gearyellorium, %s Gear
+jaopca:item_gearzinc, %s Gear
+jaopca:item_gearamber, %s Gear
+jaopca:item_gearamethyst, %s Gear
+jaopca:item_gearaquamarine, %s Gear
+jaopca:item_gearbluediamond, %s Gear
+jaopca:item_gearbluegem, %s Gear
+jaopca:item_gearcertusquartz, %s Gear
+jaopca:item_gearchargedcertusquartz, %s Gear
+jaopca:item_gearcoal, %s Gear
+jaopca:item_geardimensionalshard, %s Gear
+jaopca:item_geargreendiamond, %s Gear
+jaopca:item_gearlapis, %s Gear
+jaopca:item_gearmalachite, %s Gear
+jaopca:item_gearperidot, %s Gear
+jaopca:item_gearpurplediamond, %s Gear
+jaopca:item_gearquartz, %s Gear
+jaopca:item_gearreddiamond, %s Gear
+jaopca:item_gearredgem, %s Gear
+jaopca:item_gearruby, %s Gear
+jaopca:item_gearsapphire, %s Gear
+jaopca:item_geartanzanite, %s Gear
+jaopca:item_geartopaz, %s Gear
+jaopca:item_gearwhitegem, %s Gear
+jaopca:item_gearyellowdiamond, %s Gear
+jaopca:item_plateastralstarmetal, %s Plate
+jaopca:item_platecarbon, %s Plate
+jaopca:item_platecrystal, %s Plate
+jaopca:item_platedarkiron, %s Plate
+jaopca:item_platedesh, %s Plate
+jaopca:item_platedraconium, %s Plate
+jaopca:item_platemagnesium, %s Plate
+jaopca:item_platemercury, %s Plate
+jaopca:item_platemeteoriciron, %s Plate
+jaopca:item_plateosmium, %s Plate
+jaopca:item_platepalladium, %s Plate
+jaopca:item_platetungsten, %s Plate
+jaopca:item_plateuranium, %s Plate
+jaopca:item_plateyellorium, %s Plate
+jaopca:item_platezinc, %s Plate
+jaopca:item_plateamber, %s Plate
+jaopca:item_plateamethyst, %s Plate
+jaopca:item_plateaquamarine, %s Plate
+jaopca:item_platebluediamond, %s Plate
+jaopca:item_platebluegem, %s Plate
+jaopca:item_platecertusquartz, %s Plate
+jaopca:item_platechargedcertusquartz, %s Plate
+jaopca:item_platecoal, %s Plate
+jaopca:item_platediamond, %s Plate
+jaopca:item_platedimensionalshard, %s Plate
+jaopca:item_plateemerald, %s Plate
+jaopca:item_plategreendiamond, %s Plate
+jaopca:item_platelapis, %s Plate
+jaopca:item_platemalachite, %s Plate
+jaopca:item_plateperidot, %s Plate
+jaopca:item_platepurplediamond, %s Plate
+jaopca:item_platequartz, %s Plate
+jaopca:item_platereddiamond, %s Plate
+jaopca:item_plateredgem, %s Plate
+jaopca:item_plateruby, %s Plate
+jaopca:item_platesapphire, %s Plate
+jaopca:item_platetanzanite, %s Plate
+jaopca:item_platetopaz, %s Plate
+jaopca:item_platewhitegem, %s Plate
+jaopca:item_plateyellowdiamond, %s Plate
+jaopca:item_stickaluminium, %s Rod
+jaopca:item_stickastralstarmetal, %s Rod
+jaopca:item_stickcarbon, %s Rod
+jaopca:item_stickcopper, %s Rod
+jaopca:item_stickcrystal, %s Rod
+jaopca:item_stickdarkiron, %s Rod
+jaopca:item_stickdesh, %s Rod
+jaopca:item_stickdraconium, %s Rod
+jaopca:item_stickgold, %s Rod
+jaopca:item_stickiridium, %s Rod
+jaopca:item_stickiron, %s Rod
+jaopca:item_sticklead, %s Rod
+jaopca:item_stickmagnesium, %s Rod
+jaopca:item_stickmercury, %s Rod
+jaopca:item_stickmeteoriciron, %s Rod
+jaopca:item_stickmithril, %s Rod
+jaopca:item_sticknickel, %s Rod
+jaopca:item_stickosmium, %s Rod
+jaopca:item_stickpalladium, %s Rod
+jaopca:item_stickplatinum, %s Rod
+jaopca:item_sticksilver, %s Rod
+jaopca:item_sticktin, %s Rod
+jaopca:item_sticktungsten, %s Rod
+jaopca:item_stickuranium, %s Rod
+jaopca:item_stickyellorium, %s Rod
+jaopca:item_stickzinc, %s Rod
+jaopca:item_stickamber, %s Rod
+jaopca:item_stickamethyst, %s Rod
+jaopca:item_stickaquamarine, %s Rod
+jaopca:item_stickbluediamond, %s Rod
+jaopca:item_stickbluegem, %s Rod
+jaopca:item_stickcertusquartz, %s Rod
+jaopca:item_stickchargedcertusquartz, %s Rod
+jaopca:item_stickcoal, %s Rod
+jaopca:item_stickdiamond, %s Rod
+jaopca:item_stickdimensionalshard, %s Rod
+jaopca:item_stickemerald, %s Rod
+jaopca:item_stickgreendiamond, %s Rod
+jaopca:item_sticklapis, %s Rod
+jaopca:item_stickmalachite, %s Rod
+jaopca:item_stickperidot, %s Rod
+jaopca:item_stickpurplediamond, %s Rod
+jaopca:item_stickquartz, %s Rod
+jaopca:item_stickreddiamond, %s Rod
+jaopca:item_stickredgem, %s Rod
+jaopca:item_stickruby, %s Rod
+jaopca:item_sticksapphire, %s Rod
+jaopca:item_sticktanzanite, %s Rod
+jaopca:item_sticktopaz, %s Rod
+jaopca:item_stickwhitegem, %s Rod
+jaopca:item_stickyellowdiamond, %s Rod
+jaopca:item_dusttinyaluminium, Tiny Pile of %s Dust
+jaopca:item_dusttinyastralstarmetal, Tiny Pile of %s Dust
+jaopca:item_dusttinycarbon, Tiny Pile of %s Dust
+jaopca:item_dusttinycopper, Tiny Pile of %s Dust
+jaopca:item_dusttinycrystal, Tiny Pile of %s Dust
+jaopca:item_dusttinydarkiron, Tiny Pile of %s Dust
+jaopca:item_dusttinydesh, Tiny Pile of %s Dust
+jaopca:item_dusttinydraconium, Tiny Pile of %s Dust
+jaopca:item_dusttinygold, Tiny Pile of %s Dust
+jaopca:item_dusttinyiridium, Tiny Pile of %s Dust
+jaopca:item_dusttinyiron, Tiny Pile of %s Dust
+jaopca:item_dusttinylead, Tiny Pile of %s Dust
+jaopca:item_dusttinymagnesium, Tiny Pile of %s Dust
+jaopca:item_dusttinymercury, Tiny Pile of %s Dust
+jaopca:item_dusttinymeteoriciron, Tiny Pile of %s Dust
+jaopca:item_dusttinymithril, Tiny Pile of %s Dust
+jaopca:item_dusttinynickel, Tiny Pile of %s Dust
+jaopca:item_dusttinyosmium, Tiny Pile of %s Dust
+jaopca:item_dusttinypalladium, Tiny Pile of %s Dust
+jaopca:item_dusttinyplatinum, Tiny Pile of %s Dust
+jaopca:item_dusttinysilver, Tiny Pile of %s Dust
+jaopca:item_dusttinytin, Tiny Pile of %s Dust
+jaopca:item_dusttinytungsten, Tiny Pile of %s Dust
+jaopca:item_dusttinyuranium, Tiny Pile of %s Dust
+jaopca:item_dusttinyyellorium, Tiny Pile of %s Dust
+jaopca:item_dusttinyzinc, Tiny Pile of %s Dust
+jaopca:item_dusttinyamber, Tiny Pile of %s Dust
+jaopca:item_dusttinyamethyst, Tiny Pile of %s Dust
+jaopca:item_dusttinyaquamarine, Tiny Pile of %s Dust
+jaopca:item_dusttinybluediamond, Tiny Pile of %s Dust
+jaopca:item_dusttinybluegem, Tiny Pile of %s Dust
+jaopca:item_dusttinycertusquartz, Tiny Pile of %s Dust
+jaopca:item_dusttinychargedcertusquartz, Tiny Pile of %s Dust
+jaopca:item_dusttinycoal, Tiny Pile of %s Dust
+jaopca:item_dusttinydiamond, Tiny Pile of %s Dust
+jaopca:item_dusttinydimensionalshard, Tiny Pile of %s Dust
+jaopca:item_dusttinyemerald, Tiny Pile of %s Dust
+jaopca:item_dusttinygreendiamond, Tiny Pile of %s Dust
+jaopca:item_dusttinylapis, Tiny Pile of %s Dust
+jaopca:item_dusttinymalachite, Tiny Pile of %s Dust
+jaopca:item_dusttinyperidot, Tiny Pile of %s Dust
+jaopca:item_dusttinypurplediamond, Tiny Pile of %s Dust
+jaopca:item_dusttinyquartz, Tiny Pile of %s Dust
+jaopca:item_dusttinyreddiamond, Tiny Pile of %s Dust
+jaopca:item_dusttinyredgem, Tiny Pile of %s Dust
+jaopca:item_dusttinyruby, Tiny Pile of %s Dust
+jaopca:item_dusttinysapphire, Tiny Pile of %s Dust
+jaopca:item_dusttinytanzanite, Tiny Pile of %s Dust
+jaopca:item_dusttinytopaz, Tiny Pile of %s Dust
+jaopca:item_dusttinywhitegem, Tiny Pile of %s Dust
+jaopca:item_dusttinyyellowdiamond, Tiny Pile of %s Dust
+jaopca:item_dusttinyredstone, Tiny Pile of %s Dust
+jaopca:item_dustsmallaluminium, Small Pile of %s Dust
+jaopca:item_dustsmallastralstarmetal, Small Pile of %s Dust
+jaopca:item_dustsmallcarbon, Small Pile of %s Dust
+jaopca:item_dustsmallcopper, Small Pile of %s Dust
+jaopca:item_dustsmallcrystal, Small Pile of %s Dust
+jaopca:item_dustsmalldarkiron, Small Pile of %s Dust
+jaopca:item_dustsmalldesh, Small Pile of %s Dust
+jaopca:item_dustsmalldraconium, Small Pile of %s Dust
+jaopca:item_dustsmallgold, Small Pile of %s Dust
+jaopca:item_dustsmalliridium, Small Pile of %s Dust
+jaopca:item_dustsmalliron, Small Pile of %s Dust
+jaopca:item_dustsmalllead, Small Pile of %s Dust
+jaopca:item_dustsmallmagnesium, Small Pile of %s Dust
+jaopca:item_dustsmallmercury, Small Pile of %s Dust
+jaopca:item_dustsmallmeteoriciron, Small Pile of %s Dust
+jaopca:item_dustsmallmithril, Small Pile of %s Dust
+jaopca:item_dustsmallnickel, Small Pile of %s Dust
+jaopca:item_dustsmallosmium, Small Pile of %s Dust
+jaopca:item_dustsmallpalladium, Small Pile of %s Dust
+jaopca:item_dustsmallplatinum, Small Pile of %s Dust
+jaopca:item_dustsmallsilver, Small Pile of %s Dust
+jaopca:item_dustsmalltin, Small Pile of %s Dust
+jaopca:item_dustsmalltungsten, Small Pile of %s Dust
+jaopca:item_dustsmalluranium, Small Pile of %s Dust
+jaopca:item_dustsmallyellorium, Small Pile of %s Dust
+jaopca:item_dustsmallzinc, Small Pile of %s Dust
+jaopca:item_dustsmallamber, Small Pile of %s Dust
+jaopca:item_dustsmallamethyst, Small Pile of %s Dust
+jaopca:item_dustsmallaquamarine, Small Pile of %s Dust
+jaopca:item_dustsmallbluediamond, Small Pile of %s Dust
+jaopca:item_dustsmallbluegem, Small Pile of %s Dust
+jaopca:item_dustsmallcertusquartz, Small Pile of %s Dust
+jaopca:item_dustsmallchargedcertusquartz, Small Pile of %s Dust
+jaopca:item_dustsmallcoal, Small Pile of %s Dust
+jaopca:item_dustsmalldiamond, Small Pile of %s Dust
+jaopca:item_dustsmalldimensionalshard, Small Pile of %s Dust
+jaopca:item_dustsmallemerald, Small Pile of %s Dust
+jaopca:item_dustsmallgreendiamond, Small Pile of %s Dust
+jaopca:item_dustsmalllapis, Small Pile of %s Dust
+jaopca:item_dustsmallmalachite, Small Pile of %s Dust
+jaopca:item_dustsmallperidot, Small Pile of %s Dust
+jaopca:item_dustsmallpurplediamond, Small Pile of %s Dust
+jaopca:item_dustsmallquartz, Small Pile of %s Dust
+jaopca:item_dustsmallreddiamond, Small Pile of %s Dust
+jaopca:item_dustsmallredgem, Small Pile of %s Dust
+jaopca:item_dustsmallruby, Small Pile of %s Dust
+jaopca:item_dustsmallsapphire, Small Pile of %s Dust
+jaopca:item_dustsmalltanzanite, Small Pile of %s Dust
+jaopca:item_dustsmalltopaz, Small Pile of %s Dust
+jaopca:item_dustsmallwhitegem, Small Pile of %s Dust
+jaopca:item_dustsmallyellowdiamond, Small Pile of %s Dust
+jaopca:item_dustsmallredstone, Small Pile of %s Dust
+jaopca:item_platedensealuminium, Dense %s Plate
+jaopca:item_platedenseastralstarmetal, Dense %s Plate
+jaopca:item_platedensecarbon, Dense %s Plate
+jaopca:item_platedensecopper, Dense %s Plate
+jaopca:item_platedensecrystal, Dense %s Plate
+jaopca:item_platedensedarkiron, Dense %s Plate
+jaopca:item_platedensedesh, Dense %s Plate
+jaopca:item_platedensedraconium, Dense %s Plate
+jaopca:item_platedensegold, Dense %s Plate
+jaopca:item_platedenseiridium, Dense %s Plate
+jaopca:item_platedenseiron, Dense %s Plate
+jaopca:item_platedenselead, Dense %s Plate
+jaopca:item_platedensemagnesium, Dense %s Plate
+jaopca:item_platedensemercury, Dense %s Plate
+jaopca:item_platedensemeteoriciron, Dense %s Plate
+jaopca:item_platedensemithril, Dense %s Plate
+jaopca:item_platedensenickel, Dense %s Plate
+jaopca:item_platedenseosmium, Dense %s Plate
+jaopca:item_platedensepalladium, Dense %s Plate
+jaopca:item_platedenseplatinum, Dense %s Plate
+jaopca:item_platedensesilver, Dense %s Plate
+jaopca:item_platedensetin, Dense %s Plate
+jaopca:item_platedensetungsten, Dense %s Plate
+jaopca:item_platedenseuranium, Dense %s Plate
+jaopca:item_platedenseyellorium, Dense %s Plate
+jaopca:item_platedensezinc, Dense %s Plate
+jaopca:item_platedenseamber, Dense %s Plate
+jaopca:item_platedenseamethyst, Dense %s Plate
+jaopca:item_platedenseaquamarine, Dense %s Plate
+jaopca:item_platedensebluediamond, Dense %s Plate
+jaopca:item_platedensebluegem, Dense %s Plate
+jaopca:item_platedensecertusquartz, Dense %s Plate
+jaopca:item_platedensechargedcertusquartz, Dense %s Plate
+jaopca:item_platedensecoal, Dense %s Plate
+jaopca:item_platedensediamond, Dense %s Plate
+jaopca:item_platedensedimensionalshard, Dense %s Plate
+jaopca:item_platedenseemerald, Dense %s Plate
+jaopca:item_platedensegreendiamond, Dense %s Plate
+jaopca:item_platedenselapis, Dense %s Plate
+jaopca:item_platedensemalachite, Dense %s Plate
+jaopca:item_platedenseperidot, Dense %s Plate
+jaopca:item_platedensepurplediamond, Dense %s Plate
+jaopca:item_platedensequartz, Dense %s Plate
+jaopca:item_platedensereddiamond, Dense %s Plate
+jaopca:item_platedenseredgem, Dense %s Plate
+jaopca:item_platedenseruby, Dense %s Plate
+jaopca:item_platedensesapphire, Dense %s Plate
+jaopca:item_platedensetanzanite, Dense %s Plate
+jaopca:item_platedensetopaz, Dense %s Plate
+jaopca:item_platedensewhitegem, Dense %s Plate
+jaopca:item_platedenseyellowdiamond, Dense %s Plate
+jaopca:item_dustdirtyaluminium, Dirty %s Dust
+jaopca:item_dustdirtyastralstarmetal, Dirty %s Dust
+jaopca:item_dustdirtycarbon, Dirty %s Dust
+jaopca:item_dustdirtycrystal, Dirty %s Dust
+jaopca:item_dustdirtydarkiron, Dirty %s Dust
+jaopca:item_dustdirtydesh, Dirty %s Dust
+jaopca:item_dustdirtydraconium, Dirty %s Dust
+jaopca:item_dustdirtyiridium, Dirty %s Dust
+jaopca:item_dustdirtymagnesium, Dirty %s Dust
+jaopca:item_dustdirtymercury, Dirty %s Dust
+jaopca:item_dustdirtymeteoriciron, Dirty %s Dust
+jaopca:item_dustdirtymithril, Dirty %s Dust
+jaopca:item_dustdirtynickel, Dirty %s Dust
+jaopca:item_dustdirtypalladium, Dirty %s Dust
+jaopca:item_dustdirtyplatinum, Dirty %s Dust
+jaopca:item_dustdirtytungsten, Dirty %s Dust
+jaopca:item_dustdirtyuranium, Dirty %s Dust
+jaopca:item_dustdirtyyellorium, Dirty %s Dust
+jaopca:item_dustdirtyzinc, Dirty %s Dust
+jaopca:item_clumpaluminium, %s Clump
+jaopca:item_clumpastralstarmetal, %s Clump
+jaopca:item_clumpcarbon, %s Clump
+jaopca:item_clumpcrystal, %s Clump
+jaopca:item_clumpdarkiron, %s Clump
+jaopca:item_clumpdesh, %s Clump
+jaopca:item_clumpdraconium, %s Clump
+jaopca:item_clumpiridium, %s Clump
+jaopca:item_clumpmagnesium, %s Clump
+jaopca:item_clumpmercury, %s Clump
+jaopca:item_clumpmeteoriciron, %s Clump
+jaopca:item_clumpmithril, %s Clump
+jaopca:item_clumpnickel, %s Clump
+jaopca:item_clumppalladium, %s Clump
+jaopca:item_clumpplatinum, %s Clump
+jaopca:item_clumptungsten, %s Clump
+jaopca:item_clumpuranium, %s Clump
+jaopca:item_clumpyellorium, %s Clump
+jaopca:item_clumpzinc, %s Clump
+jaopca:item_shardaluminium, %s Shard
+jaopca:item_shardastralstarmetal, %s Shard
+jaopca:item_shardcarbon, %s Shard
+jaopca:item_shardcrystal, %s Shard
+jaopca:item_sharddarkiron, %s Shard
+jaopca:item_sharddesh, %s Shard
+jaopca:item_sharddraconium, %s Shard
+jaopca:item_shardiridium, %s Shard
+jaopca:item_shardmagnesium, %s Shard
+jaopca:item_shardmercury, %s Shard
+jaopca:item_shardmeteoriciron, %s Shard
+jaopca:item_shardmithril, %s Shard
+jaopca:item_shardnickel, %s Shard
+jaopca:item_shardpalladium, %s Shard
+jaopca:item_shardplatinum, %s Shard
+jaopca:item_shardtungsten, %s Shard
+jaopca:item_sharduranium, %s Shard
+jaopca:item_shardyellorium, %s Shard
+jaopca:item_shardzinc, %s Shard
+jaopca:item_crystalaluminium, %s Crystal
+jaopca:item_crystalastralstarmetal, %s Crystal
+jaopca:item_crystalcarbon, %s Crystal
+jaopca:item_crystalcrystal, %s Crystal
+jaopca:item_crystaldarkiron, %s Crystal
+jaopca:item_crystaldesh, %s Crystal
+jaopca:item_crystaldraconium, %s Crystal
+jaopca:item_crystaliridium, %s Crystal
+jaopca:item_crystalmagnesium, %s Crystal
+jaopca:item_crystalmercury, %s Crystal
+jaopca:item_crystalmeteoriciron, %s Crystal
+jaopca:item_crystalmithril, %s Crystal
+jaopca:item_crystalnickel, %s Crystal
+jaopca:item_crystalpalladium, %s Crystal
+jaopca:item_crystalplatinum, %s Crystal
+jaopca:item_crystaltungsten, %s Crystal
+jaopca:item_crystaluranium, %s Crystal
+jaopca:item_crystalyellorium, %s Crystal
+jaopca:item_crystalzinc, %s Crystal
+jaopca:fluid_moltenaluminium, tile.jaopca.molten.name
+jaopca:fluid_moltenastralstarmetal, tile.jaopca.molten.name
+jaopca:fluid_moltencarbon, tile.jaopca.molten.name
+jaopca:fluid_moltencopper, tile.jaopca.molten.name
+jaopca:fluid_moltencrystal, tile.jaopca.molten.name
+jaopca:fluid_moltendarkiron, tile.jaopca.molten.name
+jaopca:fluid_moltendesh, tile.jaopca.molten.name
+jaopca:fluid_moltendraconium, tile.jaopca.molten.name
+jaopca:fluid_moltengold, tile.jaopca.molten.name
+jaopca:fluid_molteniridium, tile.jaopca.molten.name
+jaopca:fluid_molteniron, tile.jaopca.molten.name
+jaopca:fluid_moltenlead, tile.jaopca.molten.name
+jaopca:fluid_moltenmagnesium, tile.jaopca.molten.name
+jaopca:fluid_moltenmercury, tile.jaopca.molten.name
+jaopca:fluid_moltenmeteoriciron, tile.jaopca.molten.name
+jaopca:fluid_moltenmithril, tile.jaopca.molten.name
+jaopca:fluid_moltennickel, tile.jaopca.molten.name
+jaopca:fluid_moltenosmium, tile.jaopca.molten.name
+jaopca:fluid_moltenpalladium, tile.jaopca.molten.name
+jaopca:fluid_moltenplatinum, tile.jaopca.molten.name
+jaopca:fluid_moltensilver, tile.jaopca.molten.name
+jaopca:fluid_moltentin, tile.jaopca.molten.name
+jaopca:fluid_moltentungsten, tile.jaopca.molten.name
+jaopca:fluid_moltenuranium, tile.jaopca.molten.name
+jaopca:fluid_moltenzinc, tile.jaopca.molten.name
