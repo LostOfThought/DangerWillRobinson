@@ -56,6 +56,7 @@
   "igwmod": "1.4.4-15",
   "buildcraftbuilders": "7.99.24.8",
   "lunatriuscore": "1.2.0.42",
+  "mekores": "2.0.13",
   "buildcraftfactory": "7.99.24.8",
   "topaddons": "1.12.2-1.10.1",
   "oreexcavation": "1.4.150",
