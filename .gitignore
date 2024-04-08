@@ -1,0 +1,6 @@
+.minecraft/*
+!.minecraft/config
+!.minecraft/mods
+!.minecraft/resourcepacks
+!.minecraft/scripts
+!.minecraft/icon.png

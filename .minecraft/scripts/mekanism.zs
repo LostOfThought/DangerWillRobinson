@@ -1,0 +1,1 @@
+recipes.replaceAllOccurences(<ore:circuitBasic>, <buildcraftbuilders:quarry>, <mekanism:machineblock:4>);
