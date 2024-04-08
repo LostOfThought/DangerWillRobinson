@@ -1,5 +1,10 @@
+instance.cfg
+natives
 .minecraft/*
 !.minecraft/config
+.minecraft/config/jei
+.minecraft/config/splash.properties
+.minecraft/config/CustomSpawner/logs
 !.minecraft/mods
 !.minecraft/resourcepacks
 !.minecraft/scripts
