@@ -170,6 +170,7 @@
   "betterp2p": "1.12.2-1.2.2",
   "minecraftmultipartcbe": "2.6.2.83",
   "enderioconduitsopencomputers": "5.3.70",
+  "recipehandler": "0.14",
   "dynamistics": "1.0.2",
   "opencomputers|core": "1.7.7+5413028",
   "mjrlegendslib": "1.12.2-1.2.1",
