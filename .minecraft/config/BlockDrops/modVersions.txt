@@ -55,6 +55,7 @@
   "projectred-core": "4.9.4.120",
   "igwmod": "1.4.4-15",
   "buildcraftbuilders": "7.99.24.8",
+  "clayworldgen": "1.1.0-1.12",
   "lunatriuscore": "1.2.0.42",
   "mekores": "2.0.13",
   "buildcraftfactory": "7.99.24.8",
