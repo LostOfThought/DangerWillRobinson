@@ -2116,6 +2116,41 @@ packagedauto:recipe_holder, Package Recipe Holder
 packagedauto:package, Recipe Package
 packagedauto:package_component, Packaging Component
 packagedauto:me_package_component, ME Packaging Component
+peripheralsplusone:feeder_upgrade, Feeder Upgrade
+peripheralsplusone:tank, Fluid Tank
+peripheralsplusone:smart_helmet, Smart Helmet
+peripheralsplusone:nano_swarm, Nano Bot Swarm
+peripheralsplusone:chunk_loader_upgrade, Chunk Loader
+peripheralsplusone:permissions_card, Permissions Card
+peripheralsplusone:resupply_upgrade, Resupply Upgrade
+peripheralsplusone:motion_detector, Motion Detector
+peripheralsplusone:turtle, Turtle
+peripheralsplusone:chat_box, Chat Box
+peripheralsplusone:player_sensor, Player Sensor
+peripheralsplusone:ore_dictionary, Ore Dictionary
+peripheralsplusone:environment_scanner, Environment Scanner
+peripheralsplusone:speaker, Speaker
+peripheralsplusone:resupply_station, Resupply Station
+peripheralsplusone:antenna, Antenna
+peripheralsplusone:rf_charger, Turtle Charger (RF)
+peripheralsplusone:ai_chat_box, AI Chat Box
+peripheralsplusone:analyzer_bee, Bee Analyzer
+peripheralsplusone:analyzer_tree, Tree Analyzer
+peripheralsplusone:analyzer_butterfly, Butterfly Analyzer
+peripheralsplusone:teleporter:0, Turtle Teleporter
+peripheralsplusone:teleporter:1, Advanced Turtle Teleporter
+peripheralsplusone:peripheral_container, Peripheral Container
+peripheralsplusone:me_bridge, ME Bridge
+peripheralsplusone:time_sensor, Time Sensor
+peripheralsplusone:interactive_sorter, Interactive Sorter
+peripheralsplusone:player_interface, Player Interface
+peripheralsplusone:mana_manipulator, Mana Manipulator
+peripheralsplusone:rfid_reader_writer, RFID Reader/Writer
+peripheralsplusone:rfid_chip, RFID Chip
+peripheralsplusone:plastic_card, Plastic Card
+peripheralsplusone:fork, RFID Chip Prod
+peripheralsplusone:mag_reader_writer, Magnetic Card Reader/Writer
+peripheralsplusone:privacy_guard, Privacy Guard
 projectred-core:resource_item:0, Circuit Plate
 projectred-core:resource_item:1, Conductive Plate
 projectred-core:resource_item:2, Wired Plate
@@ -12776,6 +12811,20 @@ mekanismtools:steelhelmet, Steel Helmet
 mekanismtools:steelchestplate, Steel Chestplate
 mekanismtools:steelleggings, Steel Leggings
 mekanismtools:steelboots, Steel Boots
+plethora:neuralinterface, Neural interface
+plethora:neuralconnector, Neural connector
+plethora:module:0, Introspection module
+plethora:module:1, Frickin' laser beam
+plethora:module:2, Block scanner
+plethora:module:3, Entity sensor
+plethora:module:4, Kinetic augment
+plethora:module:5, Chat recorder
+plethora:module:6, Overlay glasses
+plethora:module:7, Creative chat recorder
+plethora:keyboard, Keyboard
+plethora:manipulator:0, Manipulator Mk I
+plethora:manipulator:1, Manipulator Mk II
+plethora:redstone_integrator:0, Redstone integrator
 rftools:smartwrench, Smart Wrench
 rftools:rftools_manual, RFTools Manual
 rftools:rftools_shape_manual, RFTools Shape Manual
@@ -12965,27 +13014,6 @@ secretroomsmod:switch_probe, Switch Probe
 secretroomsmod:programmable_switch_probe, Programmable Switch Probe
 secretroomsmod:iron_exposing_helmet, Helmet of True Sight (Iron)
 secretroomsmod:diamond_exposing_helmet, Helmet of True Sight (Diamond)
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -13036,6 +13064,27 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 weirdinggadget:weirding_gadget, Weirding Gadget
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
