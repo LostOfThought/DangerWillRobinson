@@ -6571,7 +6571,6 @@ appliedenergistics2:facade:0, Cable Facade - Confusion Charge
 appliedenergistics2:facade:0, Cable Facade - Concussion Charge
 appliedenergistics2:facade:0, Cable Facade - Ender Charge
 appliedenergistics2:facade:0, Cable Facade - Crude Steel Block
-appliedenergistics2:facade:0, Cable Facade - Wireless Charging Antenna Extension
 appliedenergistics2:facade:0, Cable Facade - Psidust Block
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
@@ -10313,14 +10312,6 @@ enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Night Vision"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Night Vision"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Padding"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Padding"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Simple Solar"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Simple Solar"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar I"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar I"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar III"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar III"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Sound Locator"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Sound Locator"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Speed"
@@ -10387,93 +10378,6 @@ enderio:item_power_conduit:2, Ender Energy Conduit
 enderio:item_redstone_conduit:0, Redstone Conduit
 enderio:item_extract_speed_upgrade:0, Extract Speed Upgrade
 enderio:item_extract_speed_downgrade:0, Extract Speed Downgrade
-enderio:item_me_conduit:0, ME Conduit
-enderio:item_me_conduit:1, Dense ME Conduit
-enderio:item_opencomputers_conduit:0, OC Conduit
-enderio:block_inventory_panel, Inventory Panel
-enderio:block_inventory_panel_sensor, Inventory Sensor
-enderio:block_inventory_chest_tiny, Tiny Inventory System Storage
-enderio:block_inventory_chest_small, Small Inventory System Storage
-enderio:block_inventory_chest_medium, Medium Inventory System Storage
-enderio:block_inventory_chest_big, Big Inventory System Storage
-enderio:block_inventory_chest_large, Large Inventory System Storage
-enderio:block_inventory_chest_huge, Huge Inventory System Storage
-enderio:block_inventory_chest_enormous, Enormous Inventory System Storage
-enderio:block_inventory_chest_warehouse, Inventory System Storage Warehouse
-enderio:block_inventory_chest_warehouse13, Inventory System Storage Extended Warehouse
-enderio:item_inventory_remote:0, Inventory Panel Remote
-enderio:item_inventory_remote:0, Inventory Panel Remote
-enderio:item_inventory_remote:1, Advanced Inventory Panel Remote
-enderio:item_inventory_remote:1, Advanced Inventory Panel Remote
-enderio:item_inventory_remote:2, Ender Inventory Panel Remote
-enderio:item_inventory_remote:2, Ender Inventory Panel Remote
-enderio:item_data_conduit:0, Data Conduit
-enderio:block_simple_furnace, Simple Powered Furnace
-enderio:block_simple_alloy_smelter, Simple Alloy Smelter
-enderio:block_alloy_smelter, Alloy Smelter
-enderio:block_enhanced_alloy_smelter, Enhanced Alloy Smelter
-enderio:block_buffer:0, Item Buffer
-enderio:block_buffer:1, Power Buffer
-enderio:block_buffer:2, Omni Buffer
-enderio:block_buffer:3, Creative Buffer
-enderio:block_enchanter, Enchanter
-enderio:block_farm_station, Farming Station
-enderio:block_combustion_generator, Combustion Generator
-enderio:block_enhanced_combustion_generator, Enhanced Combustion Generator
-enderio:block_simple_stirling_generator, Simple Stirling Generator
-enderio:block_stirling_generator, Stirling Generator
-enderio:block_zombie_generator, Zombie Generator
-enderio:block_franken_zombie_generator, Frank'n'Zombie Generator
-enderio:block_ender_generator, Ender Generator
-enderio:block_lava_generator, Lava Heat Exchanger
-enderio:block_killer_joe, Killer Joe
-enderio:block_electric_light:0, Electric Light
-enderio:block_electric_light:1, Electric Light (Inverted)
-enderio:block_electric_light:2, Light
-enderio:block_electric_light:3, Light (Inverted)
-enderio:block_electric_light:4, Wireless Light
-enderio:block_electric_light:5, Wireless Light (Inverted)
-enderio:block_attractor_obelisk, Attractor Obelisk
-enderio:block_aversion_obelisk, Aversion Obelisk
-enderio:block_inhibitor_obelisk, Inhibitor Obelisk
-enderio:block_relocator_obelisk, Relocator Obelisk
-enderio:block_weather_obelisk, Weather Obelisk
-enderio:block_experience_obelisk, Experience Obelisk
-enderio:block_painter, Painting Machine
-enderio:block_reservoir, Endervoir
-enderio:block_omni_reservoir, Omnivoir
-enderio:block_simple_sag_mill, Simple SAG Mill
-enderio:block_sag_mill, SAG Mill
-enderio:block_enhanced_sag_mill, Enhanced SAG Mill
-enderio:block_slice_and_splice, Slice'N'Splice
-enderio:block_solar_panel:0, Simple Photovoltaic Cell
-enderio:block_solar_panel:1, Photovoltaic Cell
-enderio:block_solar_panel:2, Advanced Photovoltaic Cell
-enderio:block_solar_panel:3, Vibrant Photovoltaic Cell
-enderio:block_soul_binder, Soul Binder
-enderio:block_powered_spawner, Powered Spawner
-enderio:block_vat, The Vat
-enderio:block_enhanced_vat, The Enhanced Vat
-enderio:block_simple_wired_charger, Simple Wired Charger
-enderio:block_wired_charger, Wired Charger
-enderio:block_enhanced_wired_charger, Enhanced Wired Charger
-enderio:block_wireless_charger, Wireless Charger
-enderio:block_normal_wireless_charger, Wireless Charging Antenna
-enderio:block_enhanced_wireless_charger, Enhanced Wireless Charging Antenna
-enderio:block_wireless_charger_extension, Wireless Charging Antenna Extension
-enderio:block_tank:0, Fluid Tank
-enderio:block_tank:1, Pressurized Fluid Tank
-enderio:block_transceiver, Dimensional Transceiver
-enderio:block_vacuum_chest, Vacuum Chest
-enderio:block_xp_vacuum, XP Vacuum
-enderio:block_niard, The Niard
-enderio:block_travel_anchor, Travel Anchor
-enderio:block_tele_pad, Telepad Block
-enderio:block_dialing_device, Dialing Device
-enderio:block_impulse_hopper, Impulse Hopper
-enderio:block_simple_crafter, Simple Crafter
-enderio:block_crafter, Crafter
-enderio:block_creative_spawner, Creative Spawner
 enderio:block_cap_bank:0, Creative Capacitor Bank
 enderio:block_cap_bank:1, Basic Capacitor Bank
 enderio:block_cap_bank:1, Basic Capacitor Bank
@@ -10484,10 +10388,40 @@ enderio:block_cap_bank:3, Vibrant Capacitor Bank
 enderio:block_gauge, Energy Gauge
 enderio:block_power_monitor, Power Monitor
 enderio:block_advanced_power_monitor, Graphical Power Monitor
+enderio:item_me_conduit:0, ME Conduit
+enderio:item_me_conduit:1, Dense ME Conduit
 enderio:item_gas_conduit:0, Gas Conduit
 enderio:item_gas_conduit:1, Pressurized Gas Conduit
 enderio:item_gas_conduit:2, Ender Gas Conduit
 gasconduits:item_gas_filter:0, Gas Filter
+enderio:item_opencomputers_conduit:0, OC Conduit
+enderio:item_capacitor_grainy, Grainy Capacitor
+enderio:item_capacitor_crystalline, Crystalline Capacitor
+enderio:item_capacitor_melodic, Melodic Capacitor
+enderio:item_capacitor_stellar, Stellar Capacitor
+enderio:item_capacitor_totemic, Totemic Capacitor
+enderio:item_endergy_conduit:0, Crude Energy Conduit
+enderio:item_endergy_conduit:1, Iron Energy Conduit
+enderio:item_endergy_conduit:2, Aluminium Energy Conduit
+enderio:item_endergy_conduit:3, Gold Energy Conduit
+enderio:item_endergy_conduit:4, Copper Energy Conduit
+enderio:item_endergy_conduit:5, Silver Energy Conduit
+enderio:item_endergy_conduit:6, Electrum Energy Conduit
+enderio:item_endergy_conduit:7, Energetic Silver Energy Conduit
+enderio:item_endergy_conduit:8, Crystalline Energy Conduit
+enderio:item_endergy_conduit:9, Crystalline Pink Slime Energy Conduit
+enderio:item_endergy_conduit:10, Melodic Energy Conduit
+enderio:item_endergy_conduit:11, Stellar Energy Conduit
+enderio:item_capacitor_silver, Silver Capacitor
+enderio:item_capacitor_energetic_silver, Endergetic Silver Capacitor
+enderio:item_capacitor_vivid, Endergised Capacitor
+enderio:item_stellar_alloy_sword, The Ender Mark IV
+enderio:item_stellar_alloy_pickaxe, Stellar Pickaxe
+enderio:item_stellar_alloy_axe, Stellar Axe
+enderio:item_stellar_alloy_helmet, Stellar Helmet
+enderio:item_stellar_alloy_boots, Stellar Boots
+enderio:item_stellar_alloy_chestplate, Stellar Chestplate
+enderio:item_stellar_alloy_leggings, Stellar Leggings
 ae2wtlib:infinity_booster_card, Infinity Booster Card
 ae2wtlib:wut, Wireless Ultimate Terminal
 ae2wtlib:wut_creative, Creative Wireless Ultimate Terminal
@@ -12822,6 +12756,7 @@ bigreactors:reactorcomputerport, Reactor Computer Port (Legacy)
 bigreactors:reactorglass, Reactor Glass (Legacy)
 bigreactors:reactorcontrolrod, Reactor Control Rod (Legacy)
 bigreactors:reactorfuelrod, Reactor Fuel Rod (Legacy)
+facadepainter:chamaeleo_paint, Chamaeleo Paint
 funkylocomotion:booster, Frame Booster
 funkylocomotion:frame_projector, Frame Projector
 funkylocomotion:pusher:0, Frame Pusher
@@ -13128,6 +13063,27 @@ secretroomsmod:switch_probe, Switch Probe
 secretroomsmod:programmable_switch_probe, Programmable Switch Probe
 secretroomsmod:iron_exposing_helmet, Helmet of True Sight (Iron)
 secretroomsmod:diamond_exposing_helmet, Helmet of True Sight (Diamond)
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -13178,27 +13134,6 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 weirdinggadget:weirding_gadget, Weirding Gadget
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
@@ -13579,6 +13514,18 @@ ae2fc:dense_craft_encoded_pattern, Encoded Pattern
 ae2fc:part_dual_interface, ME Dual Interface
 ae2fc:part_fluid_pattern_terminal, ME Fluid Pattern Terminal
 ae2fc:part_fluid_pattern_ex_terminal, ME Extended Processing Fluid Pattern Terminal
+threng:machine:0, Fluix Aggregator
+threng:machine:1, Pulse Centrifuge
+threng:machine:2, ME Circuit Etcher
+threng:machine:3, Preemptive Assembly Unit
+threng:machine:4, ME Level Maintainer
+threng:machine:5, Crystal Energizer
+threng:big_assembler:0, Mass Assembler Frame
+threng:big_assembler:1, Mass Assembler Vent
+threng:big_assembler:2, Mass Assembler Controller
+threng:big_assembler:3, MA Pattern Provider
+threng:big_assembler:4, MA Crafting Coprocessor
+threng:big_assembler:5, Mass Assembler IO Port
 threng:material:0, Fluix Steel Ingot
 threng:material:1, Carbonic Fluix Complex
 threng:material:2, Fluix-Plated Iron Ingot
@@ -13594,18 +13541,6 @@ threng:material:11, Speculation Core (16x)
 threng:material:12, Speculation Core (32x)
 threng:material:13, Speculation Core (64x)
 threng:material:14, Speculative Processor
-threng:machine:0, Fluix Aggregator
-threng:machine:1, Pulse Centrifuge
-threng:machine:2, ME Circuit Etcher
-threng:machine:3, Preemptive Assembly Unit
-threng:machine:4, ME Level Maintainer
-threng:machine:5, Crystal Energizer
-threng:big_assembler:0, Mass Assembler Frame
-threng:big_assembler:1, Mass Assembler Vent
-threng:big_assembler:2, Mass Assembler Controller
-threng:big_assembler:3, MA Pattern Provider
-threng:big_assembler:4, MA Crafting Coprocessor
-threng:big_assembler:5, Mass Assembler IO Port
 mcjtylib_ng:multipart, tile.mcjtylib_ng.multipart.name
 mekores:mekanismore:0, Uranium Crystal
 mekores:mekanismore:1, Uranium Shard
