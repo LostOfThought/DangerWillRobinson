@@ -90,7 +90,7 @@
   "codechickenlib": "3.2.3.358",
   "badwithernocookiereloaded": "1.12.2-3.4.18",
   "fastleafdecay": "v14",
-  "dynamictrees": "1.12.2-0.9.29",
+  "dynamictrees": "1.12.2-0.13.3",
   "buildcraftcore": "7.99.24.8",
   "effortlessbuilding": "1.12.2-2.16",
   "wailaharvestability": "1.1.12",
