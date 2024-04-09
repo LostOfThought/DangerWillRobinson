@@ -10,7 +10,7 @@
   "draconicevolution": "2.3.28",
   "jeroreintegration": "1.1.0",
   "thermalinnovation": "0.3.6",
-  "findme": "1.1.0",
+  "findme": "1.0.0",
   "endercore": "1.12.2-0.5.78",
   "neat": "1.4-17",
   "enderioendergy": "5.3.72",
