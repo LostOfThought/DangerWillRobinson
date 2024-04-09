@@ -10345,8 +10345,6 @@ enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive IV"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive IV"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive V"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive V"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "The One Probe"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "The One Probe"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Travel"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Travel"
 enderio:block_death_pouch, Death Urn
@@ -13553,13 +13551,6 @@ buildcraftsilicon:plug_lens:32, Clear Lens
 buildcraftsilicon:plug_lens:33, Clear Filter
 buildcraftsilicon:plug_pulsar, Pipe Pulsar
 buildcraftsilicon:plug_light_sensor, Light Sensor
-theoneprobe:probe, The One Probe
-theoneprobe:creativeprobe, The Creative Probe
-theoneprobe:probenote, The One Probe Read Me
-theoneprobe:diamond_helmet_probe:0, Diamond Helmet with Probe
-theoneprobe:gold_helmet_probe:0, Gold Helmet with Probe
-theoneprobe:iron_helmet_probe:0, Iron Helmet with Probe
-theoneprobe:probe_goggles, The One Probe (Bauble)
 buildcraftenergy:glob_of_oil, item.globOil.name
 buildcraftfactory:autoworkbench_item, Auto Workbench
 buildcraftfactory:mining_well, Mining Well
@@ -13588,18 +13579,6 @@ ae2fc:dense_craft_encoded_pattern, Encoded Pattern
 ae2fc:part_dual_interface, ME Dual Interface
 ae2fc:part_fluid_pattern_terminal, ME Fluid Pattern Terminal
 ae2fc:part_fluid_pattern_ex_terminal, ME Extended Processing Fluid Pattern Terminal
-threng:machine:0, Fluix Aggregator
-threng:machine:1, Pulse Centrifuge
-threng:machine:2, ME Circuit Etcher
-threng:machine:3, Preemptive Assembly Unit
-threng:machine:4, ME Level Maintainer
-threng:machine:5, Crystal Energizer
-threng:big_assembler:0, Mass Assembler Frame
-threng:big_assembler:1, Mass Assembler Vent
-threng:big_assembler:2, Mass Assembler Controller
-threng:big_assembler:3, MA Pattern Provider
-threng:big_assembler:4, MA Crafting Coprocessor
-threng:big_assembler:5, Mass Assembler IO Port
 threng:material:0, Fluix Steel Ingot
 threng:material:1, Carbonic Fluix Complex
 threng:material:2, Fluix-Plated Iron Ingot
@@ -13615,6 +13594,18 @@ threng:material:11, Speculation Core (16x)
 threng:material:12, Speculation Core (32x)
 threng:material:13, Speculation Core (64x)
 threng:material:14, Speculative Processor
+threng:machine:0, Fluix Aggregator
+threng:machine:1, Pulse Centrifuge
+threng:machine:2, ME Circuit Etcher
+threng:machine:3, Preemptive Assembly Unit
+threng:machine:4, ME Level Maintainer
+threng:machine:5, Crystal Energizer
+threng:big_assembler:0, Mass Assembler Frame
+threng:big_assembler:1, Mass Assembler Vent
+threng:big_assembler:2, Mass Assembler Controller
+threng:big_assembler:3, MA Pattern Provider
+threng:big_assembler:4, MA Crafting Coprocessor
+threng:big_assembler:5, Mass Assembler IO Port
 mcjtylib_ng:multipart, tile.mcjtylib_ng.multipart.name
 mekores:mekanismore:0, Uranium Crystal
 mekores:mekanismore:1, Uranium Shard
