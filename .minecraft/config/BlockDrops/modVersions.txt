@@ -96,6 +96,7 @@
   "effortlessbuilding": "1.12.2-2.16",
   "wailaharvestability": "1.1.12",
   "aroma1997sdimension": "2.0.0.2.b97",
+  "betteradvancements": "0.1.0.77",
   "cctweaked": "1.89.2",
   "ctgui": "1.0.0",
   "jeri": "Just Enough Recipe Integrations",

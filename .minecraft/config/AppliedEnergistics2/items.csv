@@ -13514,18 +13514,6 @@ ae2fc:dense_craft_encoded_pattern, Encoded Pattern
 ae2fc:part_dual_interface, ME Dual Interface
 ae2fc:part_fluid_pattern_terminal, ME Fluid Pattern Terminal
 ae2fc:part_fluid_pattern_ex_terminal, ME Extended Processing Fluid Pattern Terminal
-threng:machine:0, Fluix Aggregator
-threng:machine:1, Pulse Centrifuge
-threng:machine:2, ME Circuit Etcher
-threng:machine:3, Preemptive Assembly Unit
-threng:machine:4, ME Level Maintainer
-threng:machine:5, Crystal Energizer
-threng:big_assembler:0, Mass Assembler Frame
-threng:big_assembler:1, Mass Assembler Vent
-threng:big_assembler:2, Mass Assembler Controller
-threng:big_assembler:3, MA Pattern Provider
-threng:big_assembler:4, MA Crafting Coprocessor
-threng:big_assembler:5, Mass Assembler IO Port
 threng:material:0, Fluix Steel Ingot
 threng:material:1, Carbonic Fluix Complex
 threng:material:2, Fluix-Plated Iron Ingot
@@ -13541,6 +13529,18 @@ threng:material:11, Speculation Core (16x)
 threng:material:12, Speculation Core (32x)
 threng:material:13, Speculation Core (64x)
 threng:material:14, Speculative Processor
+threng:machine:0, Fluix Aggregator
+threng:machine:1, Pulse Centrifuge
+threng:machine:2, ME Circuit Etcher
+threng:machine:3, Preemptive Assembly Unit
+threng:machine:4, ME Level Maintainer
+threng:machine:5, Crystal Energizer
+threng:big_assembler:0, Mass Assembler Frame
+threng:big_assembler:1, Mass Assembler Vent
+threng:big_assembler:2, Mass Assembler Controller
+threng:big_assembler:3, MA Pattern Provider
+threng:big_assembler:4, MA Crafting Coprocessor
+threng:big_assembler:5, Mass Assembler IO Port
 mcjtylib_ng:multipart, tile.mcjtylib_ng.multipart.name
 mekores:mekanismore:0, Uranium Crystal
 mekores:mekanismore:1, Uranium Shard
