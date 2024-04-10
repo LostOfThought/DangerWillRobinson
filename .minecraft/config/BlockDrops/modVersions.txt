@@ -152,6 +152,7 @@
   "buildcraftcore": "7.99.24.8",
   "effortlessbuilding": "1.12.2-2.16",
   "betteradvancements": "0.1.0.77",
+  "danknull": "1.8.101",
   "extracells": "2.6.7",
   "wft": "1.0.4",
   "ae2wtlib": "1.0.35",

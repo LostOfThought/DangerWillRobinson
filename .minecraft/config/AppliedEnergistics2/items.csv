@@ -10939,6 +10939,20 @@ chisel:chisel_iron, Chisel
 chisel:chisel_diamond, Diamond Chisel
 chisel:chisel_hitech, iChisel
 chisel:offsettool, Ender Offset Wand
+danknull:dank_null_0, /dank/null/
+danknull:dank_null_1, /dank/null/MK II
+danknull:dank_null_2, /dank/null/MK III
+danknull:dank_null_3, /dank/null/MK IV
+danknull:dank_null_4, /dank/null/MK V
+danknull:dank_null_5, /dank/null/MK VI
+danknull:dank_null_6, /dank/null/Creative
+danknull:dank_null_panel_0, RedStone /dank/null Panel
+danknull:dank_null_panel_1, Lapis /dank/null Panel
+danknull:dank_null_panel_2, Iron /dank/null Panel
+danknull:dank_null_panel_3, Gold /dank/null Panel
+danknull:dank_null_panel_4, Diamond /dank/null Panel
+danknull:dank_null_panel_5, Emerald /dank/null Panel
+danknull:danknull_dock, /dank/null Docking Station
 dynamictrees:dendropotion:0, Biochar Base Potion
 dynamictrees:dendropotion:1, Potion of Depletion
 dynamictrees:dendropotion:2, Potion of Gigas
