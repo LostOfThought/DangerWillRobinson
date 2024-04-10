@@ -108,7 +108,7 @@
   "mixinbooter": "8.8",
   "jee": "1.0.8",
   "projectintelligence": "1.0.9",
-  "jei": "4.16.1.302",
+  "jei": "4.25.4",
   "defaultworldgenerator-port": "1.12-2.3",
   "vintagium": "0.1",
   "buildcrafttransport": "7.99.24.8",
