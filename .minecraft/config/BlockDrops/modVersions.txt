@@ -145,6 +145,7 @@
   "craftingtweaks": "8.1.9",
   "zerocore": "1.12.2-0.1.2.9",
   "minecraft": "1.12.2",
+  "aainfo": "@VERSION@",
   "funkylocomotion": "1.0",
   "mousetweaks": "2.10",
   "psi": "r1.1-78",
