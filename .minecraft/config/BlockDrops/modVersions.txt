@@ -172,6 +172,7 @@
   "buildcraftrobotics": "7.99.24.8",
   "craftingtweaks": "8.1.9",
   "aainfo": "@VERSION@",
+  "toolbelt": "1.9.14",
   "baubles": "1.5.2",
   "jade": "0.1.0",
   "vintagefix": "0.4.0",
