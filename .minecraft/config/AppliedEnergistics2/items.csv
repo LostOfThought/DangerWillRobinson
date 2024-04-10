@@ -9016,6 +9016,16 @@ appliedenergistics2:facade:0, Cable Facade - Blutonium Block
 appliedenergistics2:facade:0, Cable Facade - Ludicrite Block
 appliedenergistics2:facade:0, Cable Facade - Steel Block
 appliedenergistics2:facade:0, Cable Facade - Frame Block
+appliedenergistics2:facade:0, Cable Facade - Physical Hazard
+appliedenergistics2:facade:0, Cable Facade - Housekeeping and Aisle Hazard
+appliedenergistics2:facade:0, Cable Facade - Traffic and Caution Hazard
+appliedenergistics2:facade:0, Cable Facade - Defective Machinery Hazard
+appliedenergistics2:facade:0, Cable Facade - Fire Prevention Hazard
+appliedenergistics2:facade:0, Cable Facade - Radiation Hazard
+appliedenergistics2:facade:0, Cable Facade - Safety and First Aid Hazard
+appliedenergistics2:facade:0, Cable Facade - Concrete
+appliedenergistics2:facade:0, Cable Facade - Block of Steel
+appliedenergistics2:facade:0, Cable Facade - Rail Frame
 appliedenergistics2:facade:0, Cable Facade - Machine Frame
 appliedenergistics2:facade:0, Cable Facade - Machine Base
 appliedenergistics2:facade:0, Cable Facade - Dimensional Shard Ore
@@ -12805,6 +12815,172 @@ funkylocomotion:wrench:1, iWrench
 funkylocomotion:wrench:2, Wrench Hammer
 gravestone:gravestone, Grave
 gravestone:death_info, Obituary
+industrialrenewal:chunk_hematite, Hematite Chunk
+industrialrenewal:prospecting_pan, Prospecting Pan
+industrialrenewal:ir_manual, Industrial Renewal Manual
+industrialrenewal:ingot_steel, Steel Ingot
+industrialrenewal:sponge_iron, Sponge Iron
+industrialrenewal:screwdrive, Powered Screwdrive
+industrialrenewal:cart_linkable, item.industrialrenewal.cart_linkable.name
+industrialrenewal:steel_saw, Steel Saw
+industrialrenewal:cargo_container, Cargo Cart
+industrialrenewal:cart_hopper, Bulk Cargo Cart
+industrialrenewal:fluid_container, Fluid Tank Cart
+industrialrenewal:steam_locomotive, Steam Locomotive (WIP)
+industrialrenewal:log_cart, Log Cart
+industrialrenewal:passenger_car, Passenger Cart
+industrialrenewal:minecart_flat, Flat Cart
+industrialrenewal:tender, Tender
+industrialrenewal:small_slab, Small Slab
+industrialrenewal:stick_iron, Iron Rod
+industrialrenewal:stick_steel, Steel Rod
+industrialrenewal:medkit, MedKit
+industrialrenewal:item_fire_extinguisher, Fire Extinguisher
+industrialrenewal:safety_helmet, Safety Helmet
+industrialrenewal:safety_belt, Safety Belt
+industrialrenewal:record_royal_entrance, Music Disc
+industrialrenewal:plow_iron, Iron Snow Plow (WIP)
+industrialrenewal:cartridge_plus, Redstone Cartridge Plus
+industrialrenewal:cartridge_minus, Redstone Cartridge Minus
+industrialrenewal:cartridge_half, Redstone Cartridge Half
+industrialrenewal:cartridge_double, Redstone Cartridge Double
+industrialrenewal:cartridge_inverter, Redstone Cartridge Inverter
+industrialrenewal:coil_hv, Ultra-HV Wire Coil
+industrialrenewal:pointer, item.industrialrenewal.pointer.name
+industrialrenewal:limiter, item.industrialrenewal.limiter.name
+industrialrenewal:pointer_long, item.industrialrenewal.pointer_long.name
+industrialrenewal:bar_level, item.industrialrenewal.bar_level.name
+industrialrenewal:fire, item.industrialrenewal.fire.name
+industrialrenewal:barrel_item, Barrel
+industrialrenewal:firebox_solid, Firebox for Solid Fuel
+industrialrenewal:firebox_fluid, Firebox for Liquid Fuel
+industrialrenewal:battery, Battery
+industrialrenewal:battery_lithium, Lithium Battery
+industrialrenewal:motor, Motor
+industrialrenewal:small_wind_blade, Wind Generator Blades
+industrialrenewal:drill_steel, Steel Drill
+industrialrenewal:drill_diamond, Diamond Drill
+industrialrenewal:drill_deep, Deep Drill
+industrialrenewal:fluid_loader_arm, item.industrialrenewal.fluid_loader_arm.name
+industrialrenewal:rotary_drum, item.industrialrenewal.rotary_drum.name
+industrialrenewal:lathecutter, item.industrialrenewal.lathecutter.name
+industrialrenewal:indicator_on, item.industrialrenewal.indicator_on.name
+industrialrenewal:indicator_off, item.industrialrenewal.indicator_off.name
+industrialrenewal:switch_on, item.industrialrenewal.switch_on.name
+industrialrenewal:switch_off, item.industrialrenewal.switch_off.name
+industrialrenewal:push_button, item.industrialrenewal.push_button.name
+industrialrenewal:label_5, item.industrialrenewal.label_5.name
+industrialrenewal:disc_r, item.industrialrenewal.disc_r.name
+industrialrenewal:regen_wand, Wand of Deep Vein Search
+industrialrenewal:orevein_hematite, Hematite
+industrialrenewal:block_hazard, Physical Hazard
+industrialrenewal:aisle_hazard, Housekeeping and Aisle Hazard
+industrialrenewal:caution_hazard, Traffic and Caution Hazard
+industrialrenewal:defective_hazard, Defective Machinery Hazard
+industrialrenewal:fire_hazard, Fire Prevention Hazard
+industrialrenewal:radiation_hazard, Radiation Hazard
+industrialrenewal:safety_hazard, Safety and First Aid Hazard
+industrialrenewal:concrete, Concrete
+industrialrenewal:block_steel, Block of Steel
+industrialrenewal:platform, Platform
+industrialrenewal:roof, Roof
+industrialrenewal:frame, Rail Frame
+industrialrenewal:catwalk_hatch, Hatch
+industrialrenewal:bunker_hatch, Bunker Hatch
+industrialrenewal:window, Windows
+industrialrenewal:catwalk, Catwalk
+industrialrenewal:handrail, Handrail
+industrialrenewal:catwalk_stair, Stair
+industrialrenewal:catwalk_ladder, Caged Ladder
+industrialrenewal:catwalk_gate, Catwalk Gate
+industrialrenewal:catwalk_pillar, Pillar
+industrialrenewal:catwalk_column, Column
+industrialrenewal:brace, Brace Beam
+industrialrenewal:catwalk_steel, Steel Catwalk
+industrialrenewal:handrail_steel, Steel Handrail
+industrialrenewal:catwalk_stair_steel, Steel Stair
+industrialrenewal:catwalk_ladder_steel, Caged Steel Ladder
+industrialrenewal:catwalk_steel_pillar, Steel Pillar
+industrialrenewal:catwalk_column_steel, Steel Column
+industrialrenewal:brace_steel, Steel Brace Beam
+industrialrenewal:lathe, Lathe Machine
+industrialrenewal:alarm, Industrial Alarm
+industrialrenewal:entity_detector, Entity Detector
+industrialrenewal:flame_detector, Flame Detector
+industrialrenewal:sensor_rain, Rain Sensor
+industrialrenewal:fuse_box, Fuse Box
+industrialrenewal:conduit_extension, Fuse Box Extension
+industrialrenewal:conduit_connector, Redstone Fuse Box Connector
+industrialrenewal:signal_indicator, Signal Indicator
+industrialrenewal:traffic_light, Traffic Light
+industrialrenewal:firstaid_kit, First-aid Box
+industrialrenewal:record_player, Multi Record Player
+industrialrenewal:locker, Locker
+industrialrenewal:bunkbed, Bunk Bed
+industrialrenewal:gutter, Gutter
+industrialrenewal:block_chimney, Chimney
+industrialrenewal:scaffold, Scaffold
+industrialrenewal:electric_fence, Electric Fence
+industrialrenewal:fence_big_column, Big Fence Column
+industrialrenewal:fence_big_corner, Big Fence Corner
+industrialrenewal:fence_big_corner_inner, Big Fence Inner Corner
+industrialrenewal:wall_concrete, Concrete Wall
+industrialrenewal:fence_big_wire, Big Fence Wire
+industrialrenewal:electric_gate, Electric Gate
+industrialrenewal:razor_wire, Razor Wire
+industrialrenewal:dam_intake, Dam Intake
+industrialrenewal:dam_outflow, Dam OutFlow
+industrialrenewal:sign_hv, Hazard Sign
+industrialrenewal:fluorescent, Fluorescent Light
+industrialrenewal:light, External Light
+industrialrenewal:industrial_floor, Industrial Floor
+industrialrenewal:isolator_hv, Ultra-HV Isolator
+industrialrenewal:energy_cable_lv, Energy Cable LV
+industrialrenewal:energy_cable, Energy Cable MV
+industrialrenewal:energy_cable_hv, Energy Cable HV
+industrialrenewal:cable_tray, Cable Tray
+industrialrenewal:fluid_pipe, Fluid Pipe
+industrialrenewal:energy_switch, Energy Breaker
+industrialrenewal:valve_pipe_large, Fluid Valve
+industrialrenewal:infinity_generator, Creative Infinity §mScam§r §fEnergy Generator
+industrialrenewal:solar_panel, Basic Solar Panel
+industrialrenewal:solar_panel_frame, Solar Panel Frame
+industrialrenewal:small_wind_turbine, Wind Turbine
+industrialrenewal:small_wind_turbine_pillar, Wind Turbine Pillar
+industrialrenewal:portable_generator, Portable Generator
+industrialrenewal:normal_rail, Rail
+industrialrenewal:booster_rail, Booster Rail
+industrialrenewal:crossing_rail, Crossing Rail
+industrialrenewal:detector_rail, Detector Rail
+industrialrenewal:rail_loader, Transfer Rail
+industrialrenewal:rail_gate, Rail Gate
+industrialrenewal:buffer_stop_rail, Buffer Stop Rail
+industrialrenewal:cargo_loader, Cargo Cart Transfer
+industrialrenewal:fluid_loader, Fluid Cart Transfer
+industrialrenewal:fluid_gauge, Fluid Gauge
+industrialrenewal:energy_level, Energy Level Indicator
+industrialrenewal:button_red, Emergency Button
+industrialrenewal:battery_bank, Battery Bank
+industrialrenewal:electric_pump, Electric Pump
+industrialrenewal:trash, Trash Bin
+industrialrenewal:transformer_hv, Ultra-HV Transformer
+industrialrenewal:dam_turbine, Dam Turbine
+industrialrenewal:dam_generator, Dam Generator
+industrialrenewal:dam_axis, Turbine Shaft
+industrialrenewal:high_pressure_pipe, High Pressure Pipe
+industrialrenewal:fluid_tank, Fluid Tank
+industrialrenewal:ind_battery_bank, Industrial Battery Bank
+industrialrenewal:storage_rack, Storage Rack (Crate)
+industrialrenewal:storage_chest, Storage Rack (Chest)
+industrialrenewal:steam_boiler, Steam Boiler
+industrialrenewal:steam_turbine, Steam Turbine
+industrialrenewal:mining, Mining Drill
+industrialrenewal:eotm, Employee of the Month Award
+industrialrenewal:eotm_andrboot, Employee of the Month (andrboot)
+industrialrenewal:eotm_ic2exp, Employee of the Month (ic2exp)
+industrialrenewal:chunk_loader, Chunk Loader
+industrialrenewal:conveyor_bulk, Bulk Conveyor
+industrialrenewal:steam, Steam
 jecalculation:item_calculator:0, Crafting Calculator
 jecalculation:item_calculator:1, Math Calculator
 mekanismgenerators:solarpanel, Solar Panel
@@ -13097,27 +13273,6 @@ secretroomsmod:switch_probe, Switch Probe
 secretroomsmod:programmable_switch_probe, Programmable Switch Probe
 secretroomsmod:iron_exposing_helmet, Helmet of True Sight (Iron)
 secretroomsmod:diamond_exposing_helmet, Helmet of True Sight (Diamond)
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -13168,6 +13323,27 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 weirdinggadget:weirding_gadget, Weirding Gadget
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
@@ -14094,6 +14270,18 @@ ae2fc:dense_craft_encoded_pattern, Encoded Pattern
 ae2fc:part_dual_interface, ME Dual Interface
 ae2fc:part_fluid_pattern_terminal, ME Fluid Pattern Terminal
 ae2fc:part_fluid_pattern_ex_terminal, ME Extended Processing Fluid Pattern Terminal
+threng:machine:0, Fluix Aggregator
+threng:machine:1, Pulse Centrifuge
+threng:machine:2, ME Circuit Etcher
+threng:machine:3, Preemptive Assembly Unit
+threng:machine:4, ME Level Maintainer
+threng:machine:5, Crystal Energizer
+threng:big_assembler:0, Mass Assembler Frame
+threng:big_assembler:1, Mass Assembler Vent
+threng:big_assembler:2, Mass Assembler Controller
+threng:big_assembler:3, MA Pattern Provider
+threng:big_assembler:4, MA Crafting Coprocessor
+threng:big_assembler:5, Mass Assembler IO Port
 threng:material:0, Fluix Steel Ingot
 threng:material:1, Carbonic Fluix Complex
 threng:material:2, Fluix-Plated Iron Ingot
@@ -14109,18 +14297,6 @@ threng:material:11, Speculation Core (16x)
 threng:material:12, Speculation Core (32x)
 threng:material:13, Speculation Core (64x)
 threng:material:14, Speculative Processor
-threng:machine:0, Fluix Aggregator
-threng:machine:1, Pulse Centrifuge
-threng:machine:2, ME Circuit Etcher
-threng:machine:3, Preemptive Assembly Unit
-threng:machine:4, ME Level Maintainer
-threng:machine:5, Crystal Energizer
-threng:big_assembler:0, Mass Assembler Frame
-threng:big_assembler:1, Mass Assembler Vent
-threng:big_assembler:2, Mass Assembler Controller
-threng:big_assembler:3, MA Pattern Provider
-threng:big_assembler:4, MA Crafting Coprocessor
-threng:big_assembler:5, Mass Assembler IO Port
 mcjtylib_ng:multipart, tile.mcjtylib_ng.multipart.name
 mekores:mekanismore:0, Uranium Crystal
 mekores:mekanismore:1, Uranium Shard
@@ -14751,7 +14927,6 @@ jaopca:item_stickdesh, %s Rod
 jaopca:item_stickdraconium, %s Rod
 jaopca:item_stickgold, %s Rod
 jaopca:item_stickiridium, %s Rod
-jaopca:item_stickiron, %s Rod
 jaopca:item_sticklead, %s Rod
 jaopca:item_stickmagnesium, %s Rod
 jaopca:item_stickmercury, %s Rod

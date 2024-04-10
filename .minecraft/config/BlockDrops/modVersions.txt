@@ -111,6 +111,7 @@
   "rftools": "7.73",
   "jecalculation": "1.12.2-3.2.7",
   "cofhcore": "4.6.6",
+  "industrialrenewal": "0.21.8",
   "findme": "1.0.0",
   "controlling": "3.0.6",
   "ae2stuff": "0.7.0.4",
