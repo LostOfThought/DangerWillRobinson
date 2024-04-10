@@ -17,6 +17,7 @@
   "redstonearsenal": "2.6.6",
   "jeresources": "0.9.3.203",
   "openmodularturrets": "3.1.14-382",
+  "superfactorymanager": "@VERSION@",
   "enderioconduits": "5.3.72",
   "threng": "1.1.21",
   "theframework": "1.12.2-1.0.1-build-T23",

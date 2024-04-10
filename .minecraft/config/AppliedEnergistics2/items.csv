@@ -9045,6 +9045,7 @@ appliedenergistics2:facade:0, Cable Facade - Birch Trim
 appliedenergistics2:facade:0, Cable Facade - Jungle Trim
 appliedenergistics2:facade:0, Cable Facade - Acacia Trim
 appliedenergistics2:facade:0, Cable Facade - Dark Oak Trim
+appliedenergistics2:facade:0, Cable Facade - Inventory Cable
 appliedenergistics2:facade:0, Cable Facade - Xtone Tile
 appliedenergistics2:facade:0, Cable Facade - Agon 1
 appliedenergistics2:facade:0, Cable Facade - Azur 1
@@ -13358,6 +13359,23 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
+superfactorymanager:cable_relay:0, Inventory Relay
+superfactorymanager:cable_relay:8, Advanced Inventory Relay
+superfactorymanager:cable_intake:0, Item Valve
+superfactorymanager:cable_intake:8, Rapid Item Valve
+superfactorymanager:cable_cluster:0, Cable Cluster
+superfactorymanager:cable_cluster:8, Advanced Cable Cluster
+superfactorymanager:cable_camouflage:0, Cable Camouflage
+superfactorymanager:cable_camouflage:1, Double Sided Cable Camouflage
+superfactorymanager:cable_camouflage:2, Transforming Cable Camouflage
+superfactorymanager:manager, Machine Inventory Manager
+superfactorymanager:cable, Inventory Cable
+superfactorymanager:cable_output, Redstone Emitter
+superfactorymanager:cable_input, Redstone Receiver
+superfactorymanager:cable_bud, Block Detector
+superfactorymanager:cable_breaker, Block Gate
+superfactorymanager:cable_sign, Sign Updater
+superfactorymanager:disk, Memory Disc
 toolbelt:belt, Tool Belt
 toolbelt:pouch, Belt Pouch
 weirdinggadget:weirding_gadget, Weirding Gadget
@@ -14286,18 +14304,6 @@ ae2fc:dense_craft_encoded_pattern, Encoded Pattern
 ae2fc:part_dual_interface, ME Dual Interface
 ae2fc:part_fluid_pattern_terminal, ME Fluid Pattern Terminal
 ae2fc:part_fluid_pattern_ex_terminal, ME Extended Processing Fluid Pattern Terminal
-threng:machine:0, Fluix Aggregator
-threng:machine:1, Pulse Centrifuge
-threng:machine:2, ME Circuit Etcher
-threng:machine:3, Preemptive Assembly Unit
-threng:machine:4, ME Level Maintainer
-threng:machine:5, Crystal Energizer
-threng:big_assembler:0, Mass Assembler Frame
-threng:big_assembler:1, Mass Assembler Vent
-threng:big_assembler:2, Mass Assembler Controller
-threng:big_assembler:3, MA Pattern Provider
-threng:big_assembler:4, MA Crafting Coprocessor
-threng:big_assembler:5, Mass Assembler IO Port
 threng:material:0, Fluix Steel Ingot
 threng:material:1, Carbonic Fluix Complex
 threng:material:2, Fluix-Plated Iron Ingot
@@ -14313,6 +14319,18 @@ threng:material:11, Speculation Core (16x)
 threng:material:12, Speculation Core (32x)
 threng:material:13, Speculation Core (64x)
 threng:material:14, Speculative Processor
+threng:machine:0, Fluix Aggregator
+threng:machine:1, Pulse Centrifuge
+threng:machine:2, ME Circuit Etcher
+threng:machine:3, Preemptive Assembly Unit
+threng:machine:4, ME Level Maintainer
+threng:machine:5, Crystal Energizer
+threng:big_assembler:0, Mass Assembler Frame
+threng:big_assembler:1, Mass Assembler Vent
+threng:big_assembler:2, Mass Assembler Controller
+threng:big_assembler:3, MA Pattern Provider
+threng:big_assembler:4, MA Crafting Coprocessor
+threng:big_assembler:5, Mass Assembler IO Port
 mcjtylib_ng:multipart, tile.mcjtylib_ng.multipart.name
 mekores:mekanismore:0, Uranium Crystal
 mekores:mekanismore:1, Uranium Shard
