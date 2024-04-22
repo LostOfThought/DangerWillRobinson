@@ -249,7 +249,7 @@ minecraft:log2:1, Dark Oak Wood
 minecraft:acacia_stairs, Acacia Wood Stairs
 minecraft:dark_oak_stairs, Dark Oak Wood Stairs
 minecraft:slime, Slime Block
-minecraft:barrier, Barrier
+minecraft:barrier, Warding Aura
 minecraft:iron_trapdoor, Iron Trapdoor
 minecraft:prismarine:0, Prismarine
 minecraft:prismarine:1, Prismarine Bricks
@@ -2059,6 +2059,9 @@ extracells:pattern.fluid:0, ME Fluid Pattern: Liquid XP
 extracells:pattern.fluid:0, ME Fluid Pattern: Liquid Sunshine
 extracells:pattern.fluid:0, ME Fluid Pattern: Cloud Seed
 extracells:pattern.fluid:0, ME Fluid Pattern: Concentrated Cloud Seed
+extracells:pattern.fluid:0, ME Fluid Pattern: Flux Goo
+extracells:pattern.fluid:0, ME Fluid Pattern: Liquid Death
+extracells:pattern.fluid:0, ME Fluid Pattern: Purifying Fluid
 extracells:pattern.fluid:0, ME Fluid Pattern: Fluid Yellorium
 extracells:pattern.fluid:0, ME Fluid Pattern: Fluid Cyanite
 extracells:pattern.fluid:0, ME Fluid Pattern: fluid.fuelcolumn
@@ -2141,6 +2144,21 @@ packagedauto:recipe_holder, Package Recipe Holder
 packagedauto:package, Recipe Package
 packagedauto:package_component, Packaging Component
 packagedauto:me_package_component, ME Packaging Component
+packagedthaumic:reinforced_porous_stone, Reinforced Porous Stone
+packagedthaumic:virial_chamber, Virial Chamber
+packagedthaumic:clathrate_essence_former, Essentia Clathrate Former
+packagedthaumic:arcane_crafter, Arcane Package Crafter
+packagedthaumic:virial_arcane_crafter, Virial Arcane Package Crafter
+packagedthaumic:crucible_crafter, Package Thaumatorium
+packagedthaumic:infusion_crafter, Package Runic Matrix
+packagedthaumic:marked_arcane_pedestal, Marked Arcane Pedestal
+packagedthaumic:marked_ancient_pedestal, Marked Ancient Pedestal
+packagedthaumic:marked_eldritch_pedestal, Marked Eldritch Pedestal
+packagedthaumic:virial_recharge_pedestal, Virial Recharge Pedestal
+packagedthaumic:clathrate_essence_materializer, Essentia Clathrate Materializer
+packagedthaumic:thaumic_package_component, Thaumic Packaging Component
+packagedthaumic:porous_stone_plate, Porous Stone Plate
+packagedthaumic:clathrate_essence, %s Essentia Clathrate
 peripheralsplusone:feeder_upgrade, Feeder Upgrade
 peripheralsplusone:tank, Fluid Tank
 peripheralsplusone:smart_helmet, Smart Helmet
@@ -3279,6 +3297,8 @@ thermaldynamics:cover:0, Nether Terrarium Cover
 thermaldynamics:cover:0, Ender Terrarium Cover
 thermaldynamics:cover:0, Block of Chamelium Cover
 thermaldynamics:cover:0, End Stone Cover
+thermaldynamics:cover:0, Reinforced Porous Stone Cover
+thermaldynamics:cover:0, Virial Chamber Cover
 thermaldynamics:cover:0, Frame Cover
 thermaldynamics:cover:0, Fluxed Electrum Block Cover
 thermaldynamics:cover:0, Flux Crystal Block Cover
@@ -3376,6 +3396,10 @@ solarflux:solar_panel_5, Solar Panel V
 solarflux:solar_panel_6, Solar Panel VI
 solarflux:solar_panel_7, Solar Panel VII
 solarflux:solar_panel_8, Solar Panel VIII
+solarflux:solar_panel_alchemical, Alchemical Solar Panel
+solarflux:solar_panel_alchemical_brass, Brass Solar Panel
+solarflux:solar_panel_thaumium, Thaumium Solar Panel
+solarflux:solar_panel_void_metal, Void Metal Solar Panel
 solarflux:solar_panel_wyvern, Wyvern Solar Panel
 solarflux:solar_panel_draconic, Draconic Solar Panel
 solarflux:solar_panel_chaotic, Chaotic Solar Panel
@@ -3430,6 +3454,197 @@ thermalinnovation:quiver:2, Alchemical Quiver (Reinforced)
 thermalinnovation:quiver:3, Alchemical Quiver (Signalum)
 thermalinnovation:quiver:4, Alchemical Quiver (Resonant)
 thermalinnovation:quiver:32000, Alchemical Quiver (Creative)
+thaumcraft:ore_amber, Amber Bearing Stone
+thaumcraft:ore_cinnabar, Cinnabar Ore
+thaumcraft:ore_quartz, Quartz Ore
+thaumcraft:crystal_aer, Air Crystal
+thaumcraft:crystal_ignis, Fire Crystal
+thaumcraft:crystal_aqua, Water Crystal
+thaumcraft:crystal_terra, Earth Crystal
+thaumcraft:crystal_ordo, Order Crystal
+thaumcraft:crystal_perditio, Entropy Crystal
+thaumcraft:crystal_vitium, Flux Crystal
+thaumcraft:stone_arcane, Arcane Stone
+thaumcraft:stone_arcane_brick, Arcane Stone Brick
+thaumcraft:stone_ancient, Ancient Stone
+thaumcraft:stone_ancient_tile, Ancient Stone Tile
+thaumcraft:stone_ancient_rock, Ancient Rock
+thaumcraft:stone_ancient_glyphed, Glyphed Stone
+thaumcraft:stone_ancient_doorway, Ancient Barrier
+thaumcraft:stone_eldritch_tile, Eldritch Stone
+thaumcraft:stone_porous, Porous Stone
+thaumcraft:stairs_arcane, Arcane Stone Stairs
+thaumcraft:stairs_arcane_brick, Arcane Brick Stairs
+thaumcraft:stairs_ancient, Ancient Stone Stairs
+thaumcraft:slab_arcane_stone:0, Arcane Stone Slab
+thaumcraft:slab_arcane_brick:0, Arcane Brick Slab
+thaumcraft:slab_ancient:0, Ancient Stone Slab
+thaumcraft:slab_eldritch:0, Eldritch Stone Slab
+thaumcraft:sapling_greatwood, Greatwood Sapling
+thaumcraft:sapling_silverwood, Silverwood Sapling
+thaumcraft:log_greatwood, Greatwood Log
+thaumcraft:log_silverwood, Silverwood Log
+thaumcraft:leaves_greatwood, Greatwood Leaves
+thaumcraft:leaves_silverwood, Silverwood Leaves
+thaumcraft:shimmerleaf, Shimmerleaf
+thaumcraft:cinderpearl, Cinderpearl
+thaumcraft:vishroom, Vishroom
+thaumcraft:plank_greatwood, Greatwood Planks
+thaumcraft:plank_silverwood, Silverwood Planks
+thaumcraft:stairs_greatwood, Greatwood Stairs
+thaumcraft:stairs_silverwood, Silverwood Stairs
+thaumcraft:slab_greatwood:0, Greatwood Slab
+thaumcraft:slab_silverwood:0, Silverwood Slab
+thaumcraft:amber_block, Amber Block
+thaumcraft:amber_brick, Amber Bricks
+thaumcraft:flesh_block, Block of Flesh
+thaumcraft:loot_crate_common, Common Crate
+thaumcraft:loot_crate_uncommon, Uncommon Crate
+thaumcraft:loot_crate_rare, Rare Crate
+thaumcraft:loot_urn_common, Common Urn
+thaumcraft:loot_urn_uncommon, Uncommon Urn
+thaumcraft:loot_urn_rare, Rare Urn
+thaumcraft:taint_fibre, Fibrous Taint
+thaumcraft:taint_crust, Crusted Taint
+thaumcraft:taint_soil, Tainted Soil
+thaumcraft:taint_rock, Tainted Rock
+thaumcraft:taint_geyser, Taint Geyser
+thaumcraft:taint_feature, Swollen Taint
+thaumcraft:taint_log, Taintwood Log
+thaumcraft:grass_ambient, Ambient Grass Block
+thaumcraft:table_wood, Wood Table
+thaumcraft:table_stone, Stone Table
+thaumcraft:pedestal_arcane, Arcane Pedestal
+thaumcraft:pedestal_ancient, Ancient Pedestal
+thaumcraft:pedestal_eldritch, Eldritch Pedestal
+thaumcraft:metal_brass, Brass Block
+thaumcraft:metal_thaumium, Thaumium Block
+thaumcraft:metal_void, Void Metal Block
+thaumcraft:metal_alchemical, Alchemical Construct
+thaumcraft:metal_alchemical_advanced, Advanced Alchemical Construct
+thaumcraft:paving_stone_travel, Paving Stone of Travel
+thaumcraft:paving_stone_barrier, Barrier Stone
+thaumcraft:pillar_arcane, Infusion Pillar
+thaumcraft:pillar_ancient, Ancient Infusion Pillar
+thaumcraft:pillar_eldritch, Eldritch Infusion Pillar
+thaumcraft:matrix_speed, Infusion Speed Stone
+thaumcraft:matrix_cost, Infusion Cost Stone
+thaumcraft:candle_white, White Tallow Candle
+thaumcraft:candle_orange, Orange Tallow Candle
+thaumcraft:candle_magenta, Magenta Tallow Candle
+thaumcraft:candle_lightblue, Light Blue Tallow Candle
+thaumcraft:candle_yellow, Yellow Tallow Candle
+thaumcraft:candle_lime, Lime Tallow Candle
+thaumcraft:candle_pink, Pink Tallow Candle
+thaumcraft:candle_gray, Gray Tallow Candle
+thaumcraft:candle_silver, Light Gray Tallow Candle
+thaumcraft:candle_cyan, Cyan Tallow Candle
+thaumcraft:candle_purple, Purple Tallow Candle
+thaumcraft:candle_blue, Blue Tallow Candle
+thaumcraft:candle_brown, Brown Tallow Candle
+thaumcraft:candle_green, Green Tallow Candle
+thaumcraft:candle_red, Red Tallow Candle
+thaumcraft:candle_black, Black Tallow Candle
+thaumcraft:banner_white, White Banner
+thaumcraft:banner_orange, Orange Banner
+thaumcraft:banner_magenta, Magenta Banner
+thaumcraft:banner_lightblue, Light Blue Banner
+thaumcraft:banner_yellow, Yellow Banner
+thaumcraft:banner_lime, Lime Banner
+thaumcraft:banner_pink, Pink Banner
+thaumcraft:banner_gray, Gray Banner
+thaumcraft:banner_silver, Light Gray Banner
+thaumcraft:banner_cyan, Cyan Banner
+thaumcraft:banner_purple, Purple Banner
+thaumcraft:banner_blue, Blue Banner
+thaumcraft:banner_brown, Brown Banner
+thaumcraft:banner_green, Green Banner
+thaumcraft:banner_red, Red Banner
+thaumcraft:banner_black, Black Banner
+thaumcraft:banner_crimson_cult, Crimson Cult Banner
+thaumcraft:nitor_white, White Nitor
+thaumcraft:nitor_orange, Orange Nitor
+thaumcraft:nitor_magenta, Magenta Nitor
+thaumcraft:nitor_lightblue, Light Blue Nitor
+thaumcraft:nitor_yellow, Yellow Nitor
+thaumcraft:nitor_lime, Lime Nitor
+thaumcraft:nitor_pink, Pink Nitor
+thaumcraft:nitor_gray, Gray Nitor
+thaumcraft:nitor_silver, Light Gray Nitor
+thaumcraft:nitor_cyan, Cyan Nitor
+thaumcraft:nitor_purple, Purple Nitor
+thaumcraft:nitor_blue, Blue Nitor
+thaumcraft:nitor_brown, Brown Nitor
+thaumcraft:nitor_green, Green Nitor
+thaumcraft:nitor_red, Red Nitor
+thaumcraft:nitor_black, Black Nitor
+thaumcraft:vis_battery, Vis Battery
+thaumcraft:inlay, Redstone Inlay
+thaumcraft:arcane_workbench, Arcane Workbench
+thaumcraft:arcane_workbench_charger, Workbench Charger
+thaumcraft:dioptra, Thaumic Dioptra
+thaumcraft:research_table, Research Table
+thaumcraft:crucible, Crucible
+thaumcraft:arcane_ear, Arcane Ear
+thaumcraft:arcane_ear_toggle, Arcane Ear (Toggle)
+thaumcraft:lamp_arcane, Arcane Lamp
+thaumcraft:lamp_fertility, Lamp of Fertility
+thaumcraft:lamp_growth, Lamp of Growth  
+thaumcraft:levitator, Arcane Levitator
+thaumcraft:centrifuge, Essentia Centrifuge
+thaumcraft:bellows, Arcane Bellows
+thaumcraft:smelter_basic, Essentia Smeltery
+thaumcraft:smelter_thaumium, Thaumium Essentia Smeltery
+thaumcraft:smelter_void, Void Metal Essentia Smeltery
+thaumcraft:smelter_aux, Auxiliary Slurry Pump
+thaumcraft:smelter_vent, Auxiliary Venting Port
+thaumcraft:alembic, Arcane Alembic
+thaumcraft:recharge_pedestal, Recharge Pedestal
+thaumcraft:wand_workbench, Focal Manipulator
+thaumcraft:hungry_chest, Hungry Chest
+thaumcraft:tube, Essentia Tube
+thaumcraft:tube_valve, Essentia Valve
+thaumcraft:tube_restrict, Restricted Essentia Tube
+thaumcraft:tube_oneway, Directional Essentia Tube
+thaumcraft:tube_filter, Filtered Essentia Tube
+thaumcraft:tube_buffer, Essentia Buffer
+thaumcraft:jar_normal, Warded Jar
+thaumcraft:jar_void, Void Jar
+thaumcraft:jar_brain, Brain in a Jar
+thaumcraft:infusion_matrix, Runic Matrix
+thaumcraft:infernal_furnace, Infernal Furnace
+thaumcraft:everfull_urn, Everfull Urn
+thaumcraft:thaumatorium, Thaumatorium
+thaumcraft:thaumatorium_top, Thaumatorium
+thaumcraft:brain_box, Mnemonic Matrix
+thaumcraft:spa, Arcane Spa
+thaumcraft:golem_builder, Golem Press
+thaumcraft:mirror, Magic Mirror
+thaumcraft:mirror_essentia, Essentia Mirror
+thaumcraft:essentia_input, Filling Essentia Transfuser
+thaumcraft:essentia_output, Emptying Essentia Transfuser
+thaumcraft:redstone_relay, Redstone Relay
+thaumcraft:pattern_crafter, Arcane Pattern Crafter
+thaumcraft:potion_sprayer, Potion Sprayer
+thaumcraft:activator_rail, Arcane Activator Rail
+thaumcraft:stabilizer, Stabilizer
+thaumcraft:vis_generator, Vis Generator
+thaumcraft:condenser, Flux Condenser
+thaumcraft:condenser_lattice, Flux Condenser Lattice
+thaumcraft:condenser_lattice_dirty, Clogged Flux Condenser Lattice
+thaumcraft:void_siphon, Void Siphon
+thaumcraft:hole, Dimensional Tear
+thaumcraft:effect_shock, Static Field
+thaumcraft:effect_sap, Sapping Field
+thaumcraft:effect_glimmer, Glimmer
+thaumcraft:placeholder_brick, Infernal Furnace
+thaumcraft:placeholder_obsidian, Infernal Furnace
+thaumcraft:placeholder_bars, Golem Press
+thaumcraft:placeholder_anvil, Golem Press
+thaumcraft:placeholder_cauldron, Golem Press
+thaumcraft:placeholder_table, Golem Press
+thaumcraft:empty, Empty Space
+thaumcraft:barrier, Warding Aura
 chisel:blockaluminum:0, Block of Aluminum
 chisel:blockaluminum:1, Block of Aluminum
 chisel:blockaluminum:2, Block of Aluminum
@@ -3486,6 +3701,39 @@ chisel:antiblock:12, Antiblock
 chisel:antiblock:13, Antiblock
 chisel:antiblock:14, Antiblock
 chisel:antiblock:15, Antiblock
+chisel:arcane_stone:0, Arcane Stone
+chisel:arcane_stone:1, Arcane Stone
+chisel:arcane_stone:2, Arcane Stone
+chisel:arcane_stone:3, Arcane Stone
+chisel:arcane_stone:4, Arcane Stone
+chisel:arcane_stone:5, Arcane Stone
+chisel:arcane_stone:6, Arcane Stone
+chisel:arcane_stone:7, Arcane Stone
+chisel:arcane_stone:8, Arcane Stone
+chisel:arcane_stone:9, Arcane Stone
+chisel:arcane_stone:10, Arcane Stone
+chisel:arcane_stone:11, Arcane Stone
+chisel:arcane_stone:12, Arcane Stone
+chisel:arcane_stone:13, Arcane Stone
+chisel:arcane_stone:14, Arcane Stone
+chisel:arcane_stone:15, Arcane Stone
+chisel:arcane_stone1:0, Arcane Stone
+chisel:arcane_stone1:1, Arcane Stone
+chisel:arcane_stone1:2, Arcane Stone
+chisel:arcane_stone1:3, Arcane Stone
+chisel:arcane_stone1:4, Arcane Stone
+chisel:arcane_stone1:5, Arcane Stone
+chisel:arcane_stone1:6, Arcane Stone
+chisel:arcane_stone1:7, Arcane Stone
+chisel:arcane_stone1:8, Arcane Stone
+chisel:arcane_stone1:9, Arcane Stone
+chisel:arcane_stone1:10, Arcane Stone
+chisel:arcane_stone1:11, Arcane Stone
+chisel:arcane_stone1:12, Arcane Stone
+chisel:arcane_stone1:13, Arcane Stone
+chisel:arcane_stone1:14, Arcane Stone
+chisel:arcane_stone1:15, Arcane Stone
+chisel:arcane_stone2:0, Arcane Stone
 chisel:basalt:0, Basalt
 chisel:basalt:1, Basalt
 chisel:basalt:2, Basalt
@@ -6507,6 +6755,8 @@ appliedenergistics2:facade:0, Cable Facade - Mud Bricks
 appliedenergistics2:facade:0, Cable Facade - Sacred Oak Wood Planks
 appliedenergistics2:facade:0, Cable Facade - Block of Chamelium
 appliedenergistics2:facade:0, Cable Facade - End Stone
+appliedenergistics2:facade:0, Cable Facade - Reinforced Porous Stone
+appliedenergistics2:facade:0, Cable Facade - Virial Chamber
 appliedenergistics2:facade:0, Cable Facade - Fluxed Electrum Block
 appliedenergistics2:facade:0, Cable Facade - Flux Crystal Block
 appliedenergistics2:facade:0, Cable Facade - Block of Crystal Quartz
@@ -6524,6 +6774,42 @@ appliedenergistics2:facade:0, Cable Facade - Sky Stone
 appliedenergistics2:facade:0, Cable Facade - Sky Stone Block
 appliedenergistics2:facade:0, Cable Facade - Sky Stone Brick
 appliedenergistics2:facade:0, Cable Facade - Sky Stone Small Brick
+appliedenergistics2:facade:0, Cable Facade - Amber Bearing Stone
+appliedenergistics2:facade:0, Cable Facade - Cinnabar Ore
+appliedenergistics2:facade:0, Cable Facade - Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Ancient Stone
+appliedenergistics2:facade:0, Cable Facade - Ancient Stone Tile
+appliedenergistics2:facade:0, Cable Facade - Ancient Rock
+appliedenergistics2:facade:0, Cable Facade - Glyphed Stone
+appliedenergistics2:facade:0, Cable Facade - Ancient Barrier
+appliedenergistics2:facade:0, Cable Facade - Eldritch Stone
+appliedenergistics2:facade:0, Cable Facade - Porous Stone
+appliedenergistics2:facade:0, Cable Facade - Greatwood Log
+appliedenergistics2:facade:0, Cable Facade - Silverwood Log
+appliedenergistics2:facade:0, Cable Facade - Greatwood Leaves
+appliedenergistics2:facade:0, Cable Facade - Silverwood Leaves
+appliedenergistics2:facade:0, Cable Facade - Greatwood Planks
+appliedenergistics2:facade:0, Cable Facade - Silverwood Planks
+appliedenergistics2:facade:0, Cable Facade - Amber Block
+appliedenergistics2:facade:0, Cable Facade - Amber Bricks
+appliedenergistics2:facade:0, Cable Facade - Block of Flesh
+appliedenergistics2:facade:0, Cable Facade - Crusted Taint
+appliedenergistics2:facade:0, Cable Facade - Tainted Soil
+appliedenergistics2:facade:0, Cable Facade - Tainted Rock
+appliedenergistics2:facade:0, Cable Facade - Taint Geyser
+appliedenergistics2:facade:0, Cable Facade - Taintwood Log
+appliedenergistics2:facade:0, Cable Facade - Ambient Grass Block
+appliedenergistics2:facade:0, Cable Facade - Brass Block
+appliedenergistics2:facade:0, Cable Facade - Thaumium Block
+appliedenergistics2:facade:0, Cable Facade - Void Metal Block
+appliedenergistics2:facade:0, Cable Facade - Alchemical Construct
+appliedenergistics2:facade:0, Cable Facade - Advanced Alchemical Construct
+appliedenergistics2:facade:0, Cable Facade - Infusion Speed Stone
+appliedenergistics2:facade:0, Cable Facade - Infusion Cost Stone
+appliedenergistics2:facade:0, Cable Facade - Vis Battery
+appliedenergistics2:facade:0, Cable Facade - Empty Space
 appliedenergistics2:facade:0, Cable Facade - Electrical Steel Block
 appliedenergistics2:facade:0, Cable Facade - Infinity Dust Block
 appliedenergistics2:facade:0, Cable Facade - Compressed Infinity Dust Block
@@ -6628,6 +6914,39 @@ appliedenergistics2:facade:0, Cable Facade - Antiblock
 appliedenergistics2:facade:0, Cable Facade - Antiblock
 appliedenergistics2:facade:0, Cable Facade - Antiblock
 appliedenergistics2:facade:0, Cable Facade - Antiblock
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
 appliedenergistics2:facade:0, Cable Facade - Basalt
 appliedenergistics2:facade:0, Cable Facade - Basalt
 appliedenergistics2:facade:0, Cable Facade - Basalt
@@ -9356,6 +9675,226 @@ appliedenergistics2:part:400, ME Storage Monitor
 appliedenergistics2:part:380, ME Terminal
 appliedenergistics2:part:80, ME Toggle Bus
 baubles:ring:0, Miner's Ring
+thaumcraft:thaumonomicon:0, Thaumonomicon
+thaumcraft:curio:0, Arcane Curiosity
+thaumcraft:curio:1, Preserved Curiosity
+thaumcraft:curio:2, Ancient Curiosity
+thaumcraft:curio:3, Eldritch Curiosity
+thaumcraft:curio:4, Illuminating Curiosity
+thaumcraft:curio:5, Twisted Curiosity
+thaumcraft:curio:6, Crimson Rites
+thaumcraft:loot_bag:0, Common Treasure
+thaumcraft:loot_bag:1, Uncommon Treasure
+thaumcraft:loot_bag:2, Rare Treasure
+thaumcraft:primordial_pearl, item.primordial_pearl.name
+thaumcraft:pech_wand, Pech Wand
+thaumcraft:celestial_notes:0, Celestial Notes
+thaumcraft:celestial_notes:1, Celestial Notes
+thaumcraft:celestial_notes:2, Celestial Notes
+thaumcraft:celestial_notes:3, Celestial Notes
+thaumcraft:celestial_notes:4, Celestial Notes
+thaumcraft:celestial_notes:5, Celestial Notes
+thaumcraft:celestial_notes:6, Celestial Notes
+thaumcraft:celestial_notes:7, Celestial Notes
+thaumcraft:celestial_notes:8, Celestial Notes
+thaumcraft:celestial_notes:9, Celestial Notes
+thaumcraft:celestial_notes:10, Celestial Notes
+thaumcraft:celestial_notes:11, Celestial Notes
+thaumcraft:celestial_notes:12, Celestial Notes
+thaumcraft:amber, Amber
+thaumcraft:quicksilver, Quicksilver
+thaumcraft:ingot:0, Thaumium Ingot
+thaumcraft:ingot:1, Void Metal Ingot
+thaumcraft:ingot:2, Alchemical Brass Ingot
+thaumcraft:nugget:0, Iron Nugget
+thaumcraft:nugget:1, Copper Nugget
+thaumcraft:nugget:2, Tin Nugget
+thaumcraft:nugget:3, Silver Nugget
+thaumcraft:nugget:4, Lead Nugget
+thaumcraft:nugget:5, Quicksilver Drop
+thaumcraft:nugget:6, Thaumium Nugget
+thaumcraft:nugget:7, Void Metal Nugget
+thaumcraft:nugget:8, Alchemical Brass Nugget
+thaumcraft:nugget:9, Quartz Sliver
+thaumcraft:nugget:10, Rare Earths
+thaumcraft:cluster:0, Native Iron Cluster
+thaumcraft:cluster:1, Native Gold Cluster
+thaumcraft:cluster:2, Native Copper Cluster
+thaumcraft:cluster:3, Native Tin Cluster
+thaumcraft:cluster:4, Native Silver Cluster
+thaumcraft:cluster:5, Native Lead Cluster
+thaumcraft:cluster:6, Native Cinnabar Cluster
+thaumcraft:cluster:7, Native Quartz Cluster
+thaumcraft:fabric, Enchanted Fabric
+thaumcraft:vis_resonator, Vis Resonator
+thaumcraft:tallow, Magic Tallow
+thaumcraft:mechanism_simple, Simple Arcane Mechanism
+thaumcraft:mechanism_complex, Complex Arcane Mechanism
+thaumcraft:plate:0, Brass Plate
+thaumcraft:plate:1, Iron Plate
+thaumcraft:plate:2, Thaumium Plate
+thaumcraft:plate:3, Void Metal Plate
+thaumcraft:filter, Essentia Filter
+thaumcraft:morphic_resonator, Morphic Resonator
+thaumcraft:salis_mundus, Salis Mundus
+thaumcraft:mirrored_glass, Mirrored Glass
+thaumcraft:void_seed, Void Seed
+thaumcraft:mind:0, Clockwork Mind
+thaumcraft:mind:1, Biothaumic Mind
+thaumcraft:module:0, Vision Module
+thaumcraft:module:1, Aggression Module
+thaumcraft:crystal_essence, %s Vis Crystal
+thaumcraft:chunk:0, Beef Nugget
+thaumcraft:chunk:1, Chicken Nugget
+thaumcraft:chunk:2, Pork Nugget
+thaumcraft:chunk:3, Fish Nugget
+thaumcraft:chunk:4, Rabbit Nugget
+thaumcraft:chunk:5, Mutton Nugget
+thaumcraft:triple_meat_treat, Triple Meat Treat
+thaumcraft:brain, Zombie Brain
+thaumcraft:label:0, Blank Label
+thaumcraft:phial:0, Glass Phial
+thaumcraft:phial:1, Phial of Aer Essentia
+thaumcraft:phial:1, Phial of Terra Essentia
+thaumcraft:phial:1, Phial of Ignis Essentia
+thaumcraft:phial:1, Phial of Aqua Essentia
+thaumcraft:phial:1, Phial of Ordo Essentia
+thaumcraft:phial:1, Phial of Perditio Essentia
+thaumcraft:phial:1, Phial of Vacuos Essentia
+thaumcraft:phial:1, Phial of Lux Essentia
+thaumcraft:phial:1, Phial of Motus Essentia
+thaumcraft:phial:1, Phial of Gelum Essentia
+thaumcraft:phial:1, Phial of Vitreus Essentia
+thaumcraft:phial:1, Phial of Metallum Essentia
+thaumcraft:phial:1, Phial of Victus Essentia
+thaumcraft:phial:1, Phial of Mortuus Essentia
+thaumcraft:phial:1, Phial of Potentia Essentia
+thaumcraft:phial:1, Phial of Permutatio Essentia
+thaumcraft:phial:1, Phial of Praecantatio Essentia
+thaumcraft:phial:1, Phial of Auram Essentia
+thaumcraft:phial:1, Phial of Alkimia Essentia
+thaumcraft:phial:1, Phial of Vitium Essentia
+thaumcraft:phial:1, Phial of Tenebrae Essentia
+thaumcraft:phial:1, Phial of Alienis Essentia
+thaumcraft:phial:1, Phial of Volatus Essentia
+thaumcraft:phial:1, Phial of Herba Essentia
+thaumcraft:phial:1, Phial of Instrumentum Essentia
+thaumcraft:phial:1, Phial of Fabrico Essentia
+thaumcraft:phial:1, Phial of Machina Essentia
+thaumcraft:phial:1, Phial of Vinculum Essentia
+thaumcraft:phial:1, Phial of Spiritus Essentia
+thaumcraft:phial:1, Phial of Cognitio Essentia
+thaumcraft:phial:1, Phial of Sensus Essentia
+thaumcraft:phial:1, Phial of Aversio Essentia
+thaumcraft:phial:1, Phial of Praemunio Essentia
+thaumcraft:phial:1, Phial of Desiderium Essentia
+thaumcraft:phial:1, Phial of Exanimis Essentia
+thaumcraft:phial:1, Phial of Bestia Essentia
+thaumcraft:phial:1, Phial of Humanus Essentia
+thaumcraft:phial:1, Phial of Sol Essentia
+thaumcraft:alumentum:0, Alumentum
+thaumcraft:jar_brace, Brass Lid Brace
+thaumcraft:bottle_taint, Bottle of Taint
+thaumcraft:sanity_soap, Sanitizing Soap
+thaumcraft:bath_salts, Purifying Bath Salts
+thaumcraft:turret:0, Automated Crossbow
+thaumcraft:turret:1, Advanced Automated Crossbow
+thaumcraft:turret:2, Arcane Bore
+thaumcraft:causality_collapser, Causality Collapser
+thaumcraft:scribing_tools, Scribing Tools
+thaumcraft:thaumometer, Thaumometer
+thaumcraft:resonator, Essentia Resonator
+thaumcraft:sanity_checker, Sanity Checker
+thaumcraft:hand_mirror, Magic Hand Mirror
+thaumcraft:thaumium_axe, Thaumium Axe
+thaumcraft:thaumium_sword, Thaumium Sword
+thaumcraft:thaumium_shovel, Thaumium Shovel
+thaumcraft:thaumium_pick, Thaumium Pickaxe
+thaumcraft:thaumium_hoe, Thaumium Hoe
+thaumcraft:void_axe, Void Axe
+thaumcraft:void_sword, Void Sword
+thaumcraft:void_shovel, Void Shovel
+thaumcraft:void_pick, Void Pickaxe
+thaumcraft:void_hoe, Void Hoe
+thaumcraft:elemental_axe, Axe of the Stream
+thaumcraft:elemental_sword, Sword of the Zephyr
+thaumcraft:elemental_shovel, Shovel of the Earthmover
+thaumcraft:elemental_pick, Pickaxe of the Core
+thaumcraft:elemental_hoe, Hoe of Growth
+thaumcraft:primal_crusher, Primal Crusher
+thaumcraft:crimson_blade, Crimson Blade
+thaumcraft:grapple_gun, Arcane Grappler
+thaumcraft:grapple_gun_tip, Grappler Head
+thaumcraft:grapple_gun_spool, Grappler Spool
+thaumcraft:goggles, Goggles of Revealing
+thaumcraft:thaumium_helm, Thaumium Helm
+thaumcraft:thaumium_chest, Thaumium Chestplate
+thaumcraft:thaumium_legs, Thaumium Leggings
+thaumcraft:thaumium_boots, Thaumium Boots
+thaumcraft:cloth_chest, Thaumaturge's Robe
+thaumcraft:cloth_legs, Thaumaturge's Leggings
+thaumcraft:cloth_boots, Thaumaturge's Boots
+thaumcraft:traveller_boots, Boots of the Traveller
+thaumcraft:fortress_helm, Thaumium Fortress Helm
+thaumcraft:fortress_chest, Thaumium Fortress Cuirass
+thaumcraft:fortress_legs, Thaumium Fortress Thigh Guards
+thaumcraft:void_helm, Void Helm
+thaumcraft:void_chest, Void Chestplate
+thaumcraft:void_legs, Void Leggings
+thaumcraft:void_boots, Void Boots
+thaumcraft:void_robe_helm, Void Thaumaturge Hood
+thaumcraft:void_robe_chest, Void Thaumaturge Robe
+thaumcraft:void_robe_legs, Void Thaumaturge Leggings
+thaumcraft:crimson_plate_helm, Crimson Cult Helm
+thaumcraft:crimson_plate_chest, Crimson Cult Chestplate
+thaumcraft:crimson_plate_legs, Crimson Cult Greaves
+thaumcraft:crimson_boots, Crimson Cult Boots
+thaumcraft:crimson_robe_helm, Crimson Cult Hood
+thaumcraft:crimson_robe_chest, Crimson Cult Robe
+thaumcraft:crimson_robe_legs, Crimson Cult Leggings
+thaumcraft:crimson_praetor_helm, Crimson Praetor Helm
+thaumcraft:crimson_praetor_chest, Crimson Praetor Chestplate
+thaumcraft:crimson_praetor_legs, Crimson Praetor Greaves
+thaumcraft:baubles:0, Mundane Amulet
+thaumcraft:baubles:1, Mundane Ring
+thaumcraft:baubles:2, Mundane Belt
+thaumcraft:baubles:3, Apprentice's Ring
+thaumcraft:baubles:4, Fancy Amulet
+thaumcraft:baubles:5, Fancy Ring
+thaumcraft:baubles:6, Fancy Belt
+thaumcraft:amulet_vis:0, Vis Stone
+thaumcraft:amulet_vis:1, Amulet of Vis
+thaumcraft:verdant_charm, Verdant Heart Charm
+thaumcraft:curiosity_band, Headband of Curiosity
+thaumcraft:voidseer_charm, Voidseer's Pearl
+thaumcraft:cloud_ring, Cloudstepper Ring
+thaumcraft:charm_undying, Charm of Undying
+thaumcraft:creative_flux_sponge, Flux Sponge
+thaumcraft:enchanted_placeholder, Any enchanted item
+thaumcraft:caster_basic, Caster's Gauntlet 
+thaumcraft:focus_1, Blank Lesser Focus
+thaumcraft:focus_2, Blank Advanced Focus
+thaumcraft:focus_3, Blank Greater Focus
+thaumcraft:focus_pouch, Focus Pouch
+thaumcraft:golem_bell, Golemancer's Bell
+thaumcraft:golem, Golem
+thaumcraft:seal:0, Blank Seal
+thaumcraft:seal:1, Control Seal: Collect
+thaumcraft:seal:2, Advanced Control Seal: Collect
+thaumcraft:seal:3, Control Seal: Store
+thaumcraft:seal:4, Advanced Control Seal: Store
+thaumcraft:seal:5, Control Seal: Empty
+thaumcraft:seal:6, Advanced Control Seal: Empty
+thaumcraft:seal:7, Control Seal: Harvest
+thaumcraft:seal:8, Control Seal: Butcher
+thaumcraft:seal:9, Control Seal: Guard
+thaumcraft:seal:10, Advanced Control Seal: Guard
+thaumcraft:seal:11, Control Seal: Lumberjack
+thaumcraft:seal:12, Control Seal: Block Breaker
+thaumcraft:seal:13, Control Seal: Use
+thaumcraft:seal:14, Control Seal: Provide
+thaumcraft:seal:15, Control Seal: Stock
+thaumcraft:seal:16, Control Seal: Advanced Block Breaker
 enderio:item_enderface, Enderface
 enderio:item_conduit_facade:0, Conduit Facade
 enderio:item_conduit_facade:1, Hardened Conduit Facade
@@ -10339,6 +10878,8 @@ enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered V"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered V"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Glider"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Glider"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Revealing"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Revealing"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Fork"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Fork"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Inventory I"
@@ -10371,6 +10912,12 @@ enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Step Assist"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Step Assist"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Flippers"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Flippers"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Thaumaturge's Robe"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Thaumaturge's Robe"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Thaumaturge's Boots"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Thaumaturge's Boots"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Thaumaturge's Leggings"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Thaumaturge's Leggings"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive I"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive I"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive II"
@@ -11026,6 +11573,12 @@ dynamictreesbop:bamboobranch, Bamboo Tree
 dynamictreesbop:bambooseed, Bamboo Shoot
 dynamictreesbop:eucalyptusbranch, Eucalyptus Tree
 dynamictreesbop:eucalyptusseed, Eucalyptus Capsule
+dynamictreestc:greatwoodbranch, Dynamic Greatwood Tree
+dynamictreestc:greatwoodbranchx, tile.dynamictreestc:greatwoodbranchx.name
+dynamictreestc:greatwoodseed, Greatwood Seed
+dynamictreestc:silverwoodbranch, Dynamic Silverwood Tree
+dynamictreestc:silverwoodbranchx, tile.dynamictreestc:silverwoodbranchx.name
+dynamictreestc:silverwoodseed, Silverwood Seed
 effortlessbuilding:randomizer_bag, Randomizer Bag
 effortlessbuilding:reach_upgrade1, Reach Upgrade 1
 effortlessbuilding:reach_upgrade2, Reach Upgrade 2
@@ -13288,6 +13841,27 @@ secretroomsmod:switch_probe, Switch Probe
 secretroomsmod:programmable_switch_probe, Programmable Switch Probe
 secretroomsmod:iron_exposing_helmet, Helmet of True Sight (Iron)
 secretroomsmod:diamond_exposing_helmet, Helmet of True Sight (Diamond)
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -13338,27 +13912,6 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 superfactorymanager:cable_relay:0, Inventory Relay
 superfactorymanager:cable_relay:8, Advanced Inventory Relay
 superfactorymanager:cable_intake:0, Item Valve
@@ -13376,6 +13929,25 @@ superfactorymanager:cable_bud, Block Detector
 superfactorymanager:cable_breaker, Block Gate
 superfactorymanager:cable_sign, Sign Updater
 superfactorymanager:disk, Memory Disc
+thaumicenergistics:essentia_cell_1k, 1k ME Essentia Storage Cell
+thaumicenergistics:essentia_cell_4k, 4k ME Essentia Storage Cell
+thaumicenergistics:essentia_cell_16k, 16k ME Essentia Storage Cell
+thaumicenergistics:essentia_cell_64k, 64k ME Essentia Storage Cell
+thaumicenergistics:essentia_cell_creative, Creative ME Essentia Storage Cell
+thaumicenergistics:essentia_import, ME Essentia Import Bus
+thaumicenergistics:essentia_export, ME Essentia Export Bus
+thaumicenergistics:essentia_storage, ME Essentia Storage Bus
+thaumicenergistics:essentia_terminal, ME Essentia Terminal
+thaumicenergistics:arcane_terminal, Arcane Crafting Terminal
+thaumicenergistics:diffusion_core, Diffusion Core
+thaumicenergistics:coalescence_core, Coalescence Core
+thaumicenergistics:essentia_component_1k, 1k ME Essentia Storage Component
+thaumicenergistics:essentia_component_4k, 4k ME Essentia Storage Component
+thaumicenergistics:essentia_component_16k, 16k ME Essentia Storage Component
+thaumicenergistics:essentia_component_64k, 64k ME Essentia Storage Component
+thaumicenergistics:upgrade_arcane, Arcane Charging Upgrade
+thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
+thaumicenergistics:infusion_provider, Essentia Infusion Provider
 toolbelt:belt, Tool Belt
 toolbelt:pouch, Belt Pouch
 weirdinggadget:weirding_gadget, Weirding Gadget
@@ -14849,7 +15421,6 @@ jaopca:item_nuggetlapis, %s Nugget
 jaopca:item_nuggetmalachite, %s Nugget
 jaopca:item_nuggetperidot, %s Nugget
 jaopca:item_nuggetpurplediamond, %s Nugget
-jaopca:item_nuggetquartz, %s Nugget
 jaopca:item_nuggetreddiamond, %s Nugget
 jaopca:item_nuggetredgem, %s Nugget
 jaopca:item_nuggetruby, %s Nugget
@@ -15232,6 +15803,26 @@ jaopca:item_crystaltungsten, %s Crystal
 jaopca:item_crystaluranium, %s Crystal
 jaopca:item_crystalyellorium, %s Crystal
 jaopca:item_crystalzinc, %s Crystal
+jaopca:item_clusteraluminium, Native %s Cluster
+jaopca:item_clusterastralstarmetal, Native %s Cluster
+jaopca:item_clustercarbon, Native %s Cluster
+jaopca:item_clustercrystal, Native %s Cluster
+jaopca:item_clusterdarkiron, Native %s Cluster
+jaopca:item_clusterdesh, Native %s Cluster
+jaopca:item_clusterdraconium, Native %s Cluster
+jaopca:item_clusteriridium, Native %s Cluster
+jaopca:item_clustermagnesium, Native %s Cluster
+jaopca:item_clustermercury, Native %s Cluster
+jaopca:item_clustermeteoriciron, Native %s Cluster
+jaopca:item_clustermithril, Native %s Cluster
+jaopca:item_clusternickel, Native %s Cluster
+jaopca:item_clusterosmium, Native %s Cluster
+jaopca:item_clusterpalladium, Native %s Cluster
+jaopca:item_clusterplatinum, Native %s Cluster
+jaopca:item_clustertungsten, Native %s Cluster
+jaopca:item_clusteruranium, Native %s Cluster
+jaopca:item_clusteryellorium, Native %s Cluster
+jaopca:item_clusterzinc, Native %s Cluster
 jaopca:fluid_moltenaluminium, tile.jaopca.molten.name
 jaopca:fluid_moltenastralstarmetal, tile.jaopca.molten.name
 jaopca:fluid_moltencarbon, tile.jaopca.molten.name
