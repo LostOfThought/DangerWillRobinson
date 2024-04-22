@@ -6,7 +6,7 @@
     "biome_blend_radius": 2,
     "entity_distance_scaling": 1.0,
     "enable_vignette": false,
-    "enable_clouds": true,
+    "enable_clouds": false,
     "smooth_lighting": "HIGH"
   },
   "advanced": {
@@ -20,7 +20,7 @@
     "use_block_face_culling": true,
     "allow_direct_memory_access": true,
     "ignore_driver_blacklist": false,
-    "translucency_sorting": false,
+    "translucency_sorting": true,
     "disable_incompatible_mod_warnings": false
   },
   "performance": {

@@ -1,0 +1,1085 @@
+{
+  "groups": [
+    {
+      "category": "LAND",
+      "name": "Plains",
+      "temperature": 0.8,
+      "moisture": 0.4,
+      "height": 0.35,
+      "biomes": [
+        {
+          "name": "minecraft:plains"
+        },
+        {
+          "name": "biomesoplenty:flower_field",
+          "weight": 0.2
+        },
+        {
+          "name": "biomesoplenty:grassland",
+          "weight": 0.04
+        },
+        {
+          "name": "biomesoplenty:lavender_fields",
+          "weight": 0.2
+        },
+        {
+          "name": "biomesoplenty:prairie",
+          "weight": 0.5
+        }
+      ]
+    },
+    {
+      "category": "LAND",
+      "name": "Desert",
+      "temperature": 1.8,
+      "moisture": 0.2,
+      "height": 0.275,
+      "blobSize": 1,
+      "biomes": [
+        {
+          "name": "minecraft:desert"
+        },
+        {
+          "name": "minecraft:mesa",
+          "weight": 0.3
+        }
+      ]
+    },
+    {
+      "category": "LAND",
+      "name": "Forest",
+      "temperature": 0.7,
+      "moisture": 0.8,
+      "height": 0.35,
+      "biomes": [
+        {
+          "name": "minecraft:forest"
+        },
+        {
+          "name": "minecraft:birch_forest",
+          "weight": 0.3
+        },
+        {
+          "name": "minecraft:roofed_forest",
+          "weight": 0.2
+        },
+        {
+          "name": "biomesoplenty:cherry_blossom_grove",
+          "weight": 0.1
+        },
+        {
+          "name": "biomesoplenty:dead_forest",
+          "weight": 0.2
+        },
+        {
+          "name": "biomesoplenty:eucalyptus_forest",
+          "weight": 0.3
+        },
+        {
+          "name": "biomesoplenty:fen",
+          "weight": 0.5
+        },
+        {
+          "name": "biomesoplenty:mystic_grove",
+          "weight": 0.04
+        },
+        {
+          "name": "biomesoplenty:ominous_woods",
+          "weight": 0.04
+        },
+        {
+          "name": "biomesoplenty:orchard",
+          "weight": 0.5
+        },
+        {
+          "name": "biomesoplenty:redwood_forest",
+          "weight": 0.3
+        },
+        {
+          "name": "biomesoplenty:sacred_springs",
+          "weight": 0.1
+        },
+        {
+          "name": "biomesoplenty:seasonal_forest",
+          "weight": 0.3
+        },
+        {
+          "name": "biomesoplenty:temperate_rainforest",
+          "weight": 0.3
+        }
+      ]
+    },
+    {
+      "category": "LAND",
+      "name": "Taiga",
+      "temperature": 0.05,
+      "moisture": 0.7,
+      "height": 0.4,
+      "biomes": [
+        {
+          "name": "minecraft:taiga_cold"
+        },
+        {
+          "name": "biomesoplenty:snowy_coniferous_forest",
+          "weight": 0.5
+        },
+        {
+          "name": "biomesoplenty:snowy_forest",
+          "weight": 0.3
+        }
+      ]
+    },
+    {
+      "category": "LAND",
+      "name": "Ice Plains",
+      "temperature": 0,
+      "moisture": 0.45,
+      "height": 0.3,
+      "biomes": [
+        {
+          "name": "minecraft:ice_flats"
+        },
+        {
+          "name": "biomesoplenty:cold_desert",
+          "weight": 0.5
+        },
+        {
+          "name": "biomesoplenty:snowy_tundra",
+          "weight": 0.5
+        }
+      ]
+    },
+    {
+      "category": "LAND",
+      "name": "Jungle",
+      "temperature": 1.75,
+      "moisture": 0.75,
+      "height": 0.325,
+      "biomes": [
+        {
+          "name": "minecraft:jungle"
+        },
+        {
+          "name": "biomesoplenty:overgrown_cliffs",
+          "weight": 0.2
+        },
+        {
+          "name": "biomesoplenty:bamboo_forest",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "category": "LAND",
+      "name": "Shrubland",
+      "temperature": 0.77,
+      "moisture": 0.53,
+      "height": 0.35,
+      "biomes": [
+        {
+          "name": "biomesoplenty:shrubland"
+        },
+        {
+          "name": "biomesoplenty:chaparral",
+          "weight": 0.5
+        },
+        {
+          "name": "biomesoplenty:lavender_fields",
+          "weight": 0.3
+        },
+        {
+          "name": "biomesoplenty:meadow",
+          "weight": 0.5
+        }
+      ]
+    },
+    {
+      "category": "LAND",
+      "name": "Boreal Forest",
+      "temperature": 0.4,
+      "moisture": 0.8,
+      "height": 0.4,
+      "biomes": [
+        {
+          "name": "minecraft:taiga"
+        },
+        {
+          "name": "minecraft:redwood_taiga",
+          "weight": 0.4
+        },
+        {
+          "name": "biomesoplenty:boreal_forest"
+        },
+        {
+          "name": "biomesoplenty:maple_woods",
+          "weight": 0.5
+        },
+        {
+          "name": "biomesoplenty:shield"
+        }
+      ]
+    },
+    {
+      "category": "LAND",
+      "name": "Tundra",
+      "temperature": 0.25,
+      "moisture": 0.45,
+      "height": 0.325,
+      "biomes": [
+        {
+          "name": "biomesoplenty:tundra"
+        },
+        {
+          "name": "biomesoplenty:cold_desert",
+          "weight": 0.2
+        },
+        {
+          "name": "biomesoplenty:steppe"
+        }
+      ]
+    },
+    {
+      "category": "LAND",
+      "name": "Savanna",
+      "temperature": 1.7,
+      "moisture": 0.55,
+      "height": 0.275,
+      "subBlobSize": 1,
+      "biomes": [
+        {
+          "name": "minecraft:savanna"
+        },
+        {
+          "name": "biomesoplenty:chaparral",
+          "weight": 0.2
+        }
+      ]
+    },
+    {
+      "category": "LAND",
+      "name": "Tropical Shrubland",
+      "temperature": 1.75,
+      "moisture": 0.65,
+      "height": 0.35,
+      "biomes": [
+        {
+          "name": "atg:tropical_shrubland"
+        },
+        {
+          "name": "biomesoplenty:bamboo_forest"
+        },
+        {
+          "name": "biomesoplenty:overgrown_cliffs",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "category": "LAND",
+      "name": "Woodland",
+      "temperature": 0.7,
+      "moisture": 0.67,
+      "height": 0.3,
+      "biomes": [
+        {
+          "name": "biomesoplenty:woodland"
+        },
+        {
+          "name": "biomesoplenty:cherry_blossom_grove",
+          "weight": 0.1
+        },
+        {
+          "name": "biomesoplenty:eucalyptus_forest",
+          "weight": 0.1
+        },
+        {
+          "name": "biomesoplenty:mystic_grove",
+          "weight": 0.04
+        }
+      ]
+    },
+    {
+      "category": "LAND",
+      "name": "Dry Scrubland",
+      "temperature": 1.8,
+      "moisture": 0.35,
+      "height": 0.325,
+      "biomes": [
+        {
+          "name": "atg:scrubland"
+        },
+        {
+          "name": "biomesoplenty:brushland"
+        },
+        {
+          "name": "biomesoplenty:lush_desert",
+          "weight": 0.2
+        },
+        {
+          "name": "biomesoplenty:outback",
+          "weight": 0.5
+        },
+        {
+          "name": "biomesoplenty:steppe"
+        },
+        {
+          "name": "biomesoplenty:xeric_shrubland"
+        }
+      ]
+    },
+    {
+      "category": "BEACH",
+      "name": "Beach",
+      "temperature": 0.6,
+      "moisture": 0.4,
+      "height": 0.25,
+      "biomes": [
+        {
+          "name": "minecraft:beaches"
+        }
+      ]
+    },
+    {
+      "category": "BEACH",
+      "name": "Cold Beach",
+      "temperature": 0.34,
+      "moisture": 0.5,
+      "height": 0.25,
+      "biomes": [
+        {
+          "name": "biomesoplenty:gravel_beach"
+        }
+      ]
+    },
+    {
+      "category": "BEACH",
+      "name": "Snowy Beach",
+      "temperature": 0,
+      "moisture": 0.5,
+      "height": 0.26,
+      "biomes": [
+        {
+          "name": "atg:snowy_gravel_beach"
+        }
+      ]
+    },
+    {
+      "category": "SWAMP",
+      "name": "Swampland",
+      "temperature": 0.8,
+      "moisture": 0.9,
+      "height": 0.25,
+      "biomes": [
+        {
+          "name": "minecraft:swampland"
+        },
+        {
+          "name": "biomesoplenty:bayou",
+          "weight": 0.3
+        },
+        {
+          "name": "biomesoplenty:bog",
+          "weight": 0.3
+        },
+        {
+          "name": "biomesoplenty:dead_swamp",
+          "weight": 0.1
+        },
+        {
+          "name": "biomesoplenty:lush_swamp",
+          "weight": 0.3
+        },
+        {
+          "name": "biomesoplenty:marsh",
+          "weight": 0.3
+        },
+        {
+          "name": "biomesoplenty:quagmire",
+          "weight": 0.2
+        },
+        {
+          "name": "biomesoplenty:wetland",
+          "weight": 0.3
+        },
+        {
+          "name": "biomesoplenty:mangrove",
+          "weight": 0.2
+        }
+      ]
+    },
+    {
+      "category": "OCEAN",
+      "name": "Ocean",
+      "temperature": 0.5,
+      "moisture": 0.5,
+      "height": 0.25,
+      "minHeight": 0.10980392156862745,
+      "biomes": [
+        {
+          "name": "minecraft:ocean"
+        },
+        {
+          "name": "biomesoplenty:kelp_forest",
+          "weight": 0.3
+        }
+      ]
+    },
+    {
+      "category": "OCEAN",
+      "name": "Deep Ocean",
+      "temperature": 0.5,
+      "moisture": 0.5,
+      "height": 0.25,
+      "maxHeight": 0.10980392156862745,
+      "biomes": [
+        {
+          "name": "minecraft:deep_ocean"
+        },
+        {
+          "name": "minecraft:mushroom_island",
+          "weight": 0.002
+        },
+        {
+          "name": "biomesoplenty:mangrove",
+          "weight": 0.001
+        },
+        {
+          "name": "biomesoplenty:origin_island",
+          "weight": 0.001
+        },
+        {
+          "name": "biomesoplenty:tropical_island",
+          "weight": 0.001
+        },
+        {
+          "name": "biomesoplenty:flower_island",
+          "weight": 0.001
+        },
+        {
+          "name": "biomesoplenty:volcanic_island",
+          "weight": 0.001
+        }
+      ]
+    }
+  ],
+  "subBiomes": [
+    {
+      "parent": "minecraft:plains",
+      "name": "minecraft:mutated_plains",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:desert",
+      "name": "minecraft:mutated_desert",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:extreme_hills",
+      "name": "minecraft:mutated_extreme_hills",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:extreme_hills",
+      "name": "minecraft:mutated_extreme_hills_with_trees",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:forest",
+      "name": "minecraft:mutated_forest",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:forest",
+      "name": "minecraft:roofed_forest",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:forest_hills",
+      "name": "minecraft:mutated_forest",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:roofed_forest",
+      "name": "minecraft:mutated_roofed_forest",
+      "weight": 0.06666666666666667,
+      "heightModifier": {
+        "type": "plateau"
+      }
+    },
+    {
+      "parent": "minecraft:taiga",
+      "name": "minecraft:mutated_taiga",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:taiga",
+      "name": "minecraft:forest",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:ice_flats",
+      "name": "minecraft:mutated_ice_flats",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:birch_forest",
+      "name": "minecraft:mutated_birch_forest",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:birch_forest_hills",
+      "name": "minecraft:mutated_birch_forest_hills",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:taiga_cold",
+      "name": "minecraft:mutated_taiga_cold",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:redwood_taiga",
+      "name": "minecraft:mutated_redwood_taiga",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:redwood_taiga_hills",
+      "name": "minecraft:mutated_redwood_taiga_hills",
+      "weight": 0.06666666666666667
+    },
+    {
+      "parent": "minecraft:savanna",
+      "name": "minecraft:savanna_rock",
+      "weight": 0.03333333333333333,
+      "heightModifier": {
+        "type": "plateau"
+      }
+    },
+    {
+      "parent": "minecraft:savanna",
+      "name": "minecraft:mutated_savanna",
+      "weight": 0.01,
+      "heightModifier": {
+        "type": "plateau",
+        "parameters": {
+          "stepsize": 36,
+          "magnitude": 0.2,
+          "riftdepth": 0.3
+        }
+      }
+    },
+    {
+      "parent": "minecraft:savanna",
+      "name": "minecraft:mutated_savanna_rock",
+      "weight": 0.01,
+      "heightModifier": {
+        "type": "plateau",
+        "parameters": {
+          "stepsize": 36,
+          "magnitude": 0.2,
+          "riftdepth": 0.3
+        }
+      }
+    },
+    {
+      "parent": "minecraft:mesa",
+      "name": "minecraft:mutated_mesa_rock",
+      "weight": 0.06666666666666667,
+      "heightModifier": {
+        "type": "mesa",
+        "parameters": {
+          "variant": 1
+        }
+      }
+    },
+    {
+      "parent": "minecraft:mesa",
+      "name": "minecraft:mutated_mesa_clear_rock",
+      "weight": 0.06666666666666667,
+      "heightModifier": {
+        "type": "mesa",
+        "parameters": {
+          "variant": 1
+        }
+      }
+    },
+    {
+      "parent": "minecraft:mesa",
+      "name": "minecraft:mesa_rock",
+      "weight": 0.25,
+      "heightModifier": {
+        "type": "mesa",
+        "parameters": {
+          "variant": 1
+        }
+      }
+    },
+    {
+      "parent": "minecraft:mesa",
+      "name": "minecraft:mesa_clear_rock",
+      "weight": 0.25,
+      "heightModifier": {
+        "type": "mesa",
+        "parameters": {
+          "variant": 1
+        }
+      }
+    },
+    {
+      "parent": "minecraft:mesa",
+      "name": "minecraft:mutated_mesa",
+      "weight": 0.25,
+      "heightModifier": {
+        "type": "mesa",
+        "parameters": {
+          "spires": true
+        }
+      }
+    },
+    {
+      "parent": "minecraft:plains",
+      "name": "biomesoplenty:woodland",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:plains",
+      "name": "biomesoplenty:shrubland",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:shrubland",
+      "name": "biomesoplenty:woodland",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:shrubland",
+      "name": "minecraft:forest",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:tundra",
+      "name": "minecraft:taiga",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:extreme_hills",
+      "name": "minecraft:extreme_hills_with_trees",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:forest",
+      "name": "minecraft:plains",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:forest",
+      "name": "biomesoplenty:woodland",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:forest",
+      "name": "biomesoplenty:shrubland",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:forest_hills",
+      "name": "minecraft:plains",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:forest_hills",
+      "name": "biomesoplenty:woodland",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:forest_hills",
+      "name": "biomesoplenty:shrubland",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:birch_forest",
+      "name": "minecraft:plains",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:birch_forest",
+      "name": "biomesoplenty:shrubland",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:birch_forest_hills",
+      "name": "minecraft:plains",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:birch_forest_hills",
+      "name": "biomesoplenty:shrubland",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:roofed_forest",
+      "name": "biomesoplenty:woodland",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:roofed_forest",
+      "name": "biomesoplenty:shrubland",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:taiga",
+      "name": "minecraft:plains",
+      "weight": 0.2
+    },
+    {
+      "parent": "minecraft:taiga_hills",
+      "name": "minecraft:plains",
+      "weight": 0.2
+    },
+    {
+      "parent": "minecraft:taiga_cold",
+      "name": "minecraft:ice_flats",
+      "weight": 0.2
+    },
+    {
+      "parent": "minecraft:taiga_cold_hills",
+      "name": "minecraft:ice_mountains",
+      "weight": 0.2
+    },
+    {
+      "parent": "minecraft:ice_mountains",
+      "name": "minecraft:taiga_cold_hills",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:forest",
+      "name": "biomesoplenty:cherry_blossom_grove",
+      "weight": 0.0625
+    },
+    {
+      "parent": "minecraft:ice_flats",
+      "name": "biomesoplenty:glacier",
+      "weight": 0.0625,
+      "heightModifier": {
+        "type": "offset",
+        "parameters": {
+          "height": 20,
+          "tapered": true,
+          "taperstart": 140,
+          "taperend": 220,
+          "taperheight": 4
+        }
+      },
+      "smoothing": 0.4
+    },
+    {
+      "parent": "biomesoplenty:cold_desert",
+      "name": "biomesoplenty:glacier",
+      "weight": 0.0625,
+      "heightModifier": {
+        "type": "offset",
+        "parameters": {
+          "height": 20,
+          "tapered": true,
+          "taperstart": 140,
+          "taperend": 220,
+          "taperheight": 4
+        }
+      },
+      "smoothing": 0.4
+    },
+    {
+      "parent": "minecraft:desert",
+      "name": "biomesoplenty:oasis",
+      "weight": 0.0625
+    },
+    {
+      "parent": "minecraft:ice_mountains",
+      "name": "biomesoplenty:alps",
+      "weight": 0.5
+    },
+    {
+      "parent": "biomesoplenty:flower_field",
+      "name": "minecraft:plains",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:flower_field",
+      "name": "biomesoplenty:shrubland",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:flower_field",
+      "name": "biomesoplenty:woodland",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:lavender_fields",
+      "name": "minecraft:plains",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:lavender_fields",
+      "name": "biomesoplenty:shrubland",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:lavender_fields",
+      "name": "biomesoplenty:woodland",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:prairie",
+      "name": "biomesoplenty:shrubland",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:prairie",
+      "name": "biomesoplenty:woodland",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:plains",
+      "name": "biomesoplenty:orchard",
+      "weight": 0.05
+    },
+    {
+      "parent": "minecraft:forest",
+      "name": "biomesoplenty:grove",
+      "weight": 0.05
+    },
+    {
+      "parent": "minecraft:forest",
+      "name": "biomesoplenty:dead_forest",
+      "weight": 0.020000000000000004
+    },
+    {
+      "parent": "minecraft:forest_hills",
+      "name": "biomesoplenty:grove",
+      "weight": 0.020000000000000004
+    },
+    {
+      "parent": "minecraft:forest_hills",
+      "name": "biomesoplenty:dead_forest",
+      "weight": 0.020000000000000004
+    },
+    {
+      "parent": "biomesoplenty:seasonal_forest",
+      "name": "minecraft:plains",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:seasonal_forest",
+      "name": "biomesoplenty:woodland",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:seasonal_forest",
+      "name": "biomesoplenty:shrubland",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:seasonal_forest",
+      "name": "biomesoplenty:dead_forest",
+      "weight": 0.020000000000000004
+    },
+    {
+      "parent": "biomesoplenty:temperate_rainforest",
+      "name": "minecraft:plains",
+      "weight": 0.05
+    },
+    {
+      "parent": "biomesoplenty:temperate_rainforest",
+      "name": "biomesoplenty:woodland",
+      "weight": 0.05
+    },
+    {
+      "parent": "biomesoplenty:temperate_rainforest",
+      "name": "biomesoplenty:shrubland",
+      "weight": 0.05
+    },
+    {
+      "parent": "biomesoplenty:temperate_rainforest",
+      "name": "biomesoplenty:grove",
+      "weight": 0.05
+    },
+    {
+      "parent": "biomesoplenty:boreal_forest",
+      "name": "minecraft:plains",
+      "weight": 0.2
+    },
+    {
+      "parent": "biomesoplenty:maple_woods",
+      "name": "minecraft:plains",
+      "weight": 0.2
+    },
+    {
+      "parent": "biomesoplenty:shield",
+      "name": "minecraft:plains",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:shield",
+      "name": "biomesoplenty:grove",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:boreal_forest",
+      "name": "biomesoplenty:moor",
+      "weight": 0.015
+    },
+    {
+      "parent": "biomesoplenty:maple_woods",
+      "name": "biomesoplenty:moor",
+      "weight": 0.015
+    },
+    {
+      "parent": "biomesoplenty:shield",
+      "name": "biomesoplenty:moor",
+      "weight": 0.015
+    },
+    {
+      "parent": "biomesoplenty:snowy_coniferous_forest",
+      "name": "minecraft:ice_flats",
+      "weight": 0.2
+    },
+    {
+      "parent": "biomesoplenty:snowy_forest",
+      "name": "minecraft:ice_flats",
+      "weight": 0.2
+    },
+    {
+      "parent": "minecraft:forest_hills",
+      "name": "biomesoplenty:mountain_foothills"
+    },
+    {
+      "parent": "biomesoplenty:overgrown_cliffs",
+      "name": "minecraft:jungle",
+      "weight": 0.2
+    },
+    {
+      "parent": "biomesoplenty:overgrown_cliffs",
+      "name": "biomesoplenty:bamboo_forest",
+      "weight": 0.1
+    },
+    {
+      "parent": "biomesoplenty:overgrown_cliffs",
+      "name": "atg:tropical_shrubland",
+      "weight": 0.1
+    },
+    {
+      "parent": "minecraft:jungle_hills",
+      "name": "biomesoplenty:overgrown_cliffs",
+      "weight": 0.1,
+      "heightModifier": {
+        "type": "plateau"
+      }
+    },
+    {
+      "parent": "minecraft:ocean",
+      "name": "biomesoplenty:coral_reef",
+      "weight": 0.1
+    }
+  ],
+  "hillBiomes": [
+    {
+      "parent": "minecraft:plains",
+      "name": "minecraft:extreme_hills",
+      "height": 0.6666666666666666
+    },
+    {
+      "parent": "minecraft:forest",
+      "name": "minecraft:forest_hills",
+      "height": 0.5019607843137255
+    },
+    {
+      "parent": "minecraft:birch_forest",
+      "name": "minecraft:birch_forest_hills",
+      "height": 0.5019607843137255
+    },
+    {
+      "parent": "minecraft:taiga",
+      "name": "minecraft:taiga_hills",
+      "height": 0.5019607843137255
+    },
+    {
+      "parent": "minecraft:taiga_cold",
+      "name": "minecraft:taiga_cold_hills",
+      "height": 0.5019607843137255
+    },
+    {
+      "parent": "minecraft:taiga_cold",
+      "name": "minecraft:ice_mountains",
+      "height": 0.7529411764705882
+    },
+    {
+      "parent": "minecraft:jungle",
+      "name": "minecraft:jungle_hills",
+      "height": 0.5019607843137255
+    },
+    {
+      "parent": "minecraft:ice_flats",
+      "name": "minecraft:ice_mountains",
+      "height": 0.7529411764705882
+    },
+    {
+      "parent": "biomesoplenty:tundra",
+      "name": "minecraft:extreme_hills",
+      "height": 0.6666666666666666
+    },
+    {
+      "parent": "biomesoplenty:tundra",
+      "name": "minecraft:ice_mountains",
+      "height": 0.7529411764705882
+    },
+    {
+      "parent": "biomesoplenty:shrubland",
+      "name": "minecraft:extreme_hills",
+      "height": 0.7529411764705882
+    },
+    {
+      "parent": "minecraft:desert",
+      "name": "minecraft:desert_hills",
+      "height": 0.5019607843137255
+    },
+    {
+      "parent": "biomesoplenty:mountain_foothills",
+      "name": "biomesoplenty:highland",
+      "height": 0.6666666666666666
+    },
+    {
+      "parent": "biomesoplenty:mountain_foothills",
+      "name": "biomesoplenty:alps",
+      "height": 0.7529411764705882
+    },
+    {
+      "parent": "biomesoplenty:mountain_foothills",
+      "name": "biomesoplenty:alps",
+      "height": 0.6666666666666666
+    },
+    {
+      "parent": "biomesoplenty:seasonal_forest",
+      "name": "biomesoplenty:mountain_foothills",
+      "height": 0.5019607843137255
+    },
+    {
+      "parent": "biomesoplenty:lavender_fields",
+      "name": "minecraft:extreme_hills",
+      "height": 0.6666666666666666
+    },
+    {
+      "parent": "biomesoplenty:flower_field",
+      "name": "minecraft:extreme_hills",
+      "height": 0.6666666666666666
+    },
+    {
+      "parent": "biomesoplenty:prairie",
+      "name": "minecraft:extreme_hills",
+      "height": 0.6666666666666666
+    },
+    {
+      "parent": "biomesoplenty:grassland",
+      "name": "minecraft:extreme_hills",
+      "height": 0.6666666666666666
+    }
+  ]
+}
