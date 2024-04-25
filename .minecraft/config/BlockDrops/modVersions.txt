@@ -23,6 +23,7 @@
   "galacticraftplanets": "4.0.2.280",
   "redstonearsenal": "2.6.6",
   "jeresources": "0.9.3.203",
+  "soulshardsrespawn": "1.12.2-1.1.1-13",
   "openmodularturrets": "3.1.14-382",
   "superfactorymanager": "@VERSION@",
   "enderioconduits": "5.3.72",
