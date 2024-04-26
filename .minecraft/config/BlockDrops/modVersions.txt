@@ -180,6 +180,7 @@
   "thaumictinkerer": "1.12.2-5.0-620a0c5",
   "uberconduitprobe": "1.0.3",
   "extratrees": "2.5.1.203",
+  "dynamictreesphc": "2.0.6",
   "crafttweakerjei": "2.0.3",
   "enderiomachines": "5.3.72",
   "mtlib": "3.0.7",
