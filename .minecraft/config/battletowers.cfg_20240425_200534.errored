@@ -21,13 +21,46 @@ battletowerchestitems {
 }
 
 
+biomespawnallowed {
+<<<<<<< Updated upstream
+    B:birch_forest=true
+    B:birch_forest_hills=true
+=======
+    B:beaches=true
+>>>>>>> Stashed changes
+    B:bog=true
+    B:boreal_forest=true
+    B:deep_ocean=true
+    B:fen=true
+    B:forest=true
+    B:jungle=true
+    B:jungle_hills=true
+    B:ocean=true
+    B:orchard=true
+    B:outback=true
+    B:plains=true
+    B:redwood_taiga=true
+    B:savanna=true
+    B:seasonal_forest=true
+    B:shield=true
+    B:shrubland=true
+    B:temperate_rainforest=true
+    B:woodland=true
+}
+
+
+chunkproviderallowed {
+    B:ChunkProviderServer=true
+}
+
+
 mainoptions {
-    I:"Minimum Distance between 2 BattleTowers"=196
-    I:"Minimum Distance of Battletowers from Spawn"=96
+    I:"Minimum Distance between 2 BattleTowers"=1960
+    I:"Minimum Distance of Battletowers from Spawn"=960
     I:"Tower Destroying Enabled"=1
     I:chanceTowerIsUnderGround=15
     B:noGolemExplosions=false
-    B:towerFallDestroysMobSpawners=false
+    B:towerFallDestroysMobSpawners=true
 }
 
 
