@@ -20,7 +20,7 @@
         },
         {
           "name": "biomesoplenty:lavender_fields",
-          "weight": 0.2
+          "weight": 0.1
         },
         {
           "name": "biomesoplenty:prairie",
@@ -185,7 +185,7 @@
         },
         {
           "name": "biomesoplenty:lavender_fields",
-          "weight": 0.3
+          "weight": 0.2
         },
         {
           "name": "biomesoplenty:meadow",
